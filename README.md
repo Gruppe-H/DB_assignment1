@@ -13,6 +13,7 @@ We didn’t see it necessary to include these because they don't hold any import
 ### 2. Design and develop proper database structure of the requested type.
 ##### We have made an ER diagram: 
 We have to create the database based on our diagram
+![EER diagram](Images/EER_diagram.png)
 
 
 ### 3. Ingest the data into the database, include pre-processing of it, if necessary.
