@@ -1,0 +1,230 @@
+GPD_id,GDP_year,GDP,GDP_currency,GDP_source,Organization_id
+1,2010.0,52147.0,ZAR     South African Rand,Built Environment Performance Plan(BEPP),49363
+2,2015.0,129378000000.0,EUR     Euro,Contabilidad Municipal Trimestral. Ciudad de Madrid. Base 2010. Serie 2000-2015,31171
+3,2015.0,1558520000000.0,USD     US Dollar,http://www.brookings.edu/research/reports2/2015/01/22-global-metro-monitor,3417
+4,,,,,59537
+5,2013.0,115412801.0,CAD     Canadian Dollar,Institut de la statistique du Québec,35894
+6,2014.0,12700000.0,USD     US Dollar,Bureau of Economic Analysis,2430
+7,2015.0,18452000000.0,NZD     New Zealand Dollar,Infometrics,43937
+8,2014.0,300827000000.0,,US Dept Commerce for Seattle-Tacoma-Bellevue region,16581
+9,2016.0,42492323490.0,USD     US Dollar,"National Statistics, ROC (Taiwan)",54386
+10,2013.0,43202.0,USD     US Dollar,Open Data Network,49342
+11,2014.0,6225000000.0,EUR     Euro,"http://www.tilastokeskus.fi/tup/suoluk/suoluk_vaesto.html#maakuntienpinta-ala,väestöjabruttokansantuote",54402
+12,,,,,50541
+13,2012.0,8700000000.0,USD     US Dollar,Statistics Finland,50154
+14,2013.0,8564000000.0,USD     US Dollar,BEA-for Metropolitan Statistical Area,54111
+15,2014.0,15905000000.0,USD     US Dollar,Bureau of Economic Analysis:  http://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=3#reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=naics&7005=-1&7006=42340&7036=-1&7001=2200&7002=2&7090=70&7007=2014&7093=levels,54085
+16,2013.0,8631000000.0,USD     US Dollar,U.S. Bureau of Economic Analysis,54046
+17,2012.0,4745.0,,IBGE,42120
+18,2015.0,503300000000.0,USD     US Dollar,http://www.houston.org/assets/pdf/economy/EmploymentForecast-2017-web.pdf,31108
+19,,,,,59996
+20,2015.0,36000000000.0,CAD     Canadian Dollar,Economic Development Winnipeg,50579
+21,2013.0,360400000000.0,USD     US Dollar,San Francisco/Oakland/Hayward Metropolitan Area GDP: http://www.usmayors.org/metroeconomies/2013/201311-charts.pdf,60656
+22,2015.0,11202000000.0,JOD     Jordanian Dinar,Ministry of Energy and Mineral Resources,54337
+23,2014.0,125000000000.0,USD     US Dollar,Note this is Metro-area based: http://bea.gov/newsreleases/regional/gdp_metro/2014/pdf/gdp_metro0914.pdf,43907
+24,2016.0,43700000000000.0,USD     US Dollar,National Association of Counties/U.S. Bureau of Economic Analysis,35853
+25,2013.0,416797.0,,GDP is in (ppp)(mllion) source: Statistics Sweden,3429
+26,2015.0,256000000000.0,EUR     Euro,national governement,31175
+27,2016.0,,VND     Vietnamese đồng,HCMC People's Committee,31164
+28,2016.0,2190900000.0,DKK     Danish Krone,,59180
+29,,,,,58531
+30,2015.0,14057000000.0,USD     US Dollar,Bureau of Economic Analysis,54066
+31,,,,,35274
+32,2016.0,12800000000.0,CAD     Canadian Dollar,City Economic Development Planning,50578
+33,2014.0,2.0,MXN     Mexican Peso,INEGI,50375
+34,2015.0,197193000000.0,USD     US Dollar,US Bureau of Economic Analysis,35874
+35,,,,,58513
+36,,,AUD     Australian Dollar,,53254
+37,2012.0,25636374480.0,DKK     Danish Krone,Danmarks Statistik,58489
+38,,,,,54110
+39,2015.0,127057000000.0,USD     US Dollar,Bureau of Economic Analysis U.S. Department of Commerce,35857
+40,2015.0,16000000000.0,CAD     Canadian Dollar,"Conference Board of Canada, London Census Metropolitan Area data prorated by population and adjusted to 2007",50558
+41,2016.0,35600000000000.0,COP     Colombian Peso,NATIONAL STATISTICS DEPARTMENT (DANE in Spanish),31154
+42,,,ETB     Ethiopian Birr,,31146
+43,2016.0,22635.0,USD     US Dollar,Financial Bureau,54389
+44,2015.0,31769.0,EUR     Euro,per capita data from Unioncamere - ISTAT,36285
+45,,,USD     US Dollar,this information is not available at this geographic scale,58621
+46,,,,,54521
+47,2013.0,13900000000.0,USD     US Dollar,www.roanokeva.gov,58310
+48,,,,,59595
+49,2015.0,22043000000.0,USD     US Dollar,"Reno, NV MSA; Bureau of Economic Analysis10.4",54128
+50,2015.0,78950000.0,USD     US Dollar,"U.S. Department of Commerce, Bureau of Economic Analysis, GDP Regional Index by Metropolitan Area, published Sept 23, 2015",31177
+51,2016.0,17111263000000.0,TWD     New Taiwan Dollar,"DGBAS, Executive Yuan, Taiwan",54395
+52,2014.0,2255223000000.0,MXN     Mexican Peso,INEGI,31172
+53,2016.0,17400000000.0,CAD     Canadian Dollar,Saskatoon Regional Economic Authority,50568
+54,2013.0,19908.0,BRL     Brazilian Real,Ministério da Saúde - DATASUS,57509
+55,2015.0,117467440139.0,USD     US Dollar,City Controller's Office,31182
+56,,,,,57616
+57,2015.0,71856593000000.0,CLP     Chilean Peso,Central Bank of Chile,31180
+58,2015.0,122146000000.0,USD     US Dollar,U.S. Bureau of Economic Analysis,31090
+59,2013.0,163692000000.0,USD     US Dollar,2013 GDP & personal income. U.S. Department of Commerce Bureau of Economic Analysis,14874
+60,,,COP     Colombian Peso,,69967
+61,2013.0,53457000.0,EUR     Euro,www.rotterdam.nl,31179
+62,2013.0,8787850000.0,USD     US Dollar,IBGE,50384
+63,,,,,54075
+64,2014.0,87656760000.0,BRL     Brazilian Real,IBGE,35848
+65,2014.0,622762000000.0,TRY     New Turkish Lira,Turkish Statistical Institute,31163
+66,2016.0,,USD     US Dollar,,59552
+67,2012.0,4540.0,,DAPM,36037
+68,2016.0,2739000000.0,ZAR     South African Rand,STATSSA,49360
+69,2014.0,,,,50680
+70,2015.0,323182960000.0,DKK     Danish Krone,"Danmarks Statistik, Statistics Denmark",31009
+71,2015.0,11000000000.0,GBP     Pound Sterling,gvairereferencetables,31052
+72,2015.0,218.0,MXN Mexican Peso,Gobierno Municipal de León,50359
+73,,1146500000.0,,Lehigh Valley source. Scaled to population size,58590
+74,,,,,53959
+75,2013.0,2363878.0,,ibge,60318
+76,2015.0,1460000000.0,AUD     Australian Dollar,NIEIR,58543
+77,2015.0,21200000000.0,USD     US Dollar,,50572
+78,2015.0,45228000000.0,CAD     Canadian Dollar,Edmonton Chief Economist - John Rose - Real GDP at Market Prices in 2007 dollars,43912
+79,2016.0,9900000.0,USD     US Dollar,"Property taxes, permit and license fees, charges for services",55616
+80,,,,,54409
+81,2012.0,27025.0,,"Iskandar Malaysia Comprehensive Development Plan, 2014-2025 (CDPii), March 2015 (GDP year: 2006)",54388
+82,2010.0,30131330.0,BRL     Brazilian Real,IBGE - Brazilian Institute of Geography and Statistical,42123
+83,2016.0,113400000000.0,CAD     Canadian Dollar,http://www.calgaryeconomicdevelopment.com/dmsdocument/22,35475
+84,2016.0,94400000000000.0,JPY     Japanese yen,,31111
+85,2015.0,4903000000.0,USD     US Dollar,"University of Arizona: Real GDP, Millions of Chained 2009 Dollars, Bureau of Economic Analysis https://ebr.eller.arizona.edu/current-indicators/browse-topic/gross-domestic-product",54113
+86,2014.0,106695000000.0,USD     US Dollar,MSA Data (not county only) from US DOC's BEA http://bea.gov/iTable/iTable.cfm?reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=naics&7005=-1&7006=34980&7036=-1&7001=2200&7002=2&7090=70&7007=2014&7093=levels#reqid=70&step=10&isuri=1&7003=200&7004=naics&7035=-1&7005=-1&7006=34980&7001=2200&7036=-1&7002=2&7090=70&7007=2014&7093=levels,49335
+87,2015.0,39155000000.0,USD     US Dollar,US Department of Commerce Bureau of Economic Analysis; http://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=3#reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=naics&7005=-1&7006=28940&7036=-1&7001=2200&7002=2&7090=70&7007=2014&7093=levels,54048
+88,2015.0,90600000.0,AUD     Australian Dollar,http://melbourne.geografia.com.au/,31109
+89,,,USD     US Dollar,,61790
+90,2014.0,72067440000.0,EUR     Euro,Notice: GDP for whole Helsinki region http://www.helsinginseutu.fi/www/HS/en/city-information/,8242
+91,2015.0,33793459000.0,EUR     Euro,provisional,46473
+92,2016.0,529676000000.0,USD     US Dollar,"Gross Domestic Product by Expenditures, National Statistics, R.O.C (Taiwan) (2016) There is no relation data of Taipei GDP.",31446
+93,2017.0,10000.0,TRY     New Turkish Lira,Governmental,35755
+94,,,,,35885
+95,2015.0,388000000000.0,ZAR     South African Rand,Economic Performance Indicators for Cape Town series. GDP constant figure also available: R301 billion.,35858
+96,2016.0,320679000000.0,USD     US Dollar,Census and Statistics Department,31169
+97,,,,,31174
+98,2014.0,102500000000.0,EUR     Euro,Statistikamt Nord,35868
+99,2015.0,7111125.0,MXN     Mexican Peso,INEGI 2012,50382
+100,2014.0,25329.0,EUR     Euro,"Region Central Slovenia(2014: 25329€/capita, source: stat.si), no special data for Ljubljana ( €/capita), $:€: 1,13",43920
+101,2012.0,30300000000.0,USD     US Dollar,"City of Providence Task Force on Economic Development Final Report, April 2014, http://council.providenceri.com/efile/212",49327
+102,2015.0,86024000.0,USD     US Dollar,World Bank site,63616
+103,2013.0,2244657.0,USD     US Dollar,,58461
+104,2013.0,49621.0,USD     US Dollar,U.S. Bureau of Economic Analysis,54102
+105,2015.0,35900000000.0,DKK     Danish Krone,Statistic Denmark,59165
+106,2015.0,88295000.0,NZD     New Zealand Dollar,Statistics New Zealand,43932
+107,2014.0,299849795374.0,BRL     Brazilian Real,IBGE,31176
+108,2014.0,23000000.0,USD     US Dollar,Solano EDC http://www.solanocounty.com/depts/bos/working_to_create_jobs/economic_studies.asp,49787
+109,2015.0,14322000000.0,USD     US Dollar,"U.S. Dept. of Commerce, Bureau of Economic Analysis, Regional Data, Eugene, OR (Metropolitan Statistical Area), All Industry Total",54070
+110,2015.0,930817000.0,USD     US Dollar,US Dept. of Commerce BEA – Los Angeles Metro Area https://www.bea.gov/itable/iTable.cfm?ReqID=70&step=1#reqid=70&step=1&isuri=1,58357
+111,2014.0,117412136000000.0,IDR     Rupiah,Central Statistic Bureau,54329
+112,2015.0,18124000000.0,AUD     Australian Dollar,http://economy.id.com.au/adelaide/gross-product,32480
+113,,,,,50679
+114,2015.0,6.0,PHP     Philippine Peso,Budget of Expenditures and Sources of Financing NEDA,54354
+115,2014.0,64567300000.0,EUR     Euro,Statistical Institute of Catalonia (Idescat),1499
+116,2014.0,10245550000.0,EUR     Euro,Data from Unioncamere - Tagliacarne Foundation for Venice Municipality,36254
+117,,,,,59163
+118,2015.0,1802000000.0,EUR     Euro,Energy baseline emissions. This value was estimated. Official statistics of GDP at the municipal level are not available. The estimation was based on relevant economic and financial information provided by official statistics at municipal and regional level.,55324
+119,2012.0,15796000000.0,USD     US Dollar,Data represents Gross Regional Product from IMPLAN,55800
+120,,,,,36518
+121,2017.0,89771259.0,PEN     Nuevo Sol,www.msi.gob.pe,60392
+122,2013.0,79400000000.0,BRL     Brazilian Real,http://www.agencia.curitiba.pr.gov.br/publico/conteudo.aspx?codigo=39,31156
+123,2012.0,171235.0,BRL     Brazilian Real,Produto Interno Bruto do Distrito Federal. CODEPLAN,35995
+124,2014.0,16121000000.0,USD     US Dollar,WIKIPEDIA FREE ENCYCLOPEDIA,36036
+125,2016.0,51303000000.0,CAD     Canadian Dollar,Conference Board of Canada (forecast); Vancouver Economic Commission,20113
+126,2013.0,7727035000.0,EUR     Euro,"http://www.heidelberg.de/hd,Lde/HD/Arbeiten+in+Heidelberg/Wirtschaftsdaten.html#erwerbsttige",31165
+127,2015.0,25977591566.0,EUR     Euro,www.ilsole24h.com,36262
+128,2016.0,118000000000.0,AUD     Australian Dollar,City Strategic Research Unit,31114
+129,2015.0,11908000000.0,USD     US Dollar,US Bureau of Economic Analysis,59633
+130,2015.0,5562586779.0,USD     US Dollar,Gross Domestic Product - Statistics Canada,50559
+131,2015.0,1922000000.0,CHF     Swiss Franc,"Based on our own calculation. Estimation made on the basis of the real GDP of Canton Waadt (federated state), itself based on the Swiss real GDP",59160
+132,2012.0,93198982910.0,USD     US Dollar,,43905
+133,,,,,58485
+134,2015.0,109500000000.0,USD     US Dollar,Boston Planning and Development Agency analysis using data from the Bureau of Economic Analysis and the National Bureau of Economic Research,35268
+135,2017.0,4855510958.0,USD     US Dollar,https://www.bea.gov/newsreleases/regional/gdp_metro/2014/pdf/gdp_metro0914.pdf,55801
+136,,,CAD     Canadian Dollar,,60680
+137,,,,,54408
+138,2014.0,18871919000.0,USD     US Dollar,US Dept of Commerce Bureau of Economic Analysis,55799
+139,,,,,62864
+140,2014.0,108089000000.0,USD     US Dollar,https://development.ohio.gov/files/research/E1001.pdf,43910
+141,2012.0,5980612000.0,USD     US Dollar,"Bureau of Economic Analysis, US Department of Commerce (estimated from GDP/capital statistic for SF metropolitan area)",59631
+142,2014.0,22997319000.0,USD     US Dollar,Ecuador Central Bank,42178
+143,2014.0,198000000000.0,USD     US Dollar,* For Metro Phoenix. US Bureau of Economic Analysis,53921
+144,,,,,36263
+145,,,USD     US Dollar,"This data is not available for the City alone.  the 2014 GDP for the Charlottesville MSA is 11,734,000,000 (U.S. Bureau of Economic Analysis)",59545
+146,2013.0,260000000000.0,USD     US Dollar,http://www.atlantaga.gov/modules/showdocument.aspx?documentid=12107,1093
+147,2016.0,,PEN     Nuevo Sol,INEI,31170
+148,2014.0,491550000000.0,GBP     Pound Sterling,"London measures GVA rather than GDP.•In 2015, London’s total nominal GVA was over £378 billion, up 3.2 per cent on 2014.  An indicative value for London's GDP has been estimated from 2014 per capita data ($57,157) published by Brookings (http://www.brookings.edu/research/reports2/2015/01/22-global-metro-monitor)",3422
+149,2015.0,35124.0,ARS     Argentine Peso,"Dato estimado a partir de datos del: INDEC, Serie histórica, Oferta y Demanda Globales, años 2004-2016 Ministerio de Economía y Finanzas Públicas, Subsecretaría de Planificación Económica, Fichas provinciales, Provincia de Tierra del Fuego AeIAS, octubre 2015  y aclará que es un dato provisorio, porque el Indec todavía no publicó los datos definitivos para el 2015/ Observatorio Estadistico Municipio de Río Grande",60419
+150,2014.0,135662.0,USD     US Dollar,http://www.pittsburghtoday.org/view_GDP2.html,35877
+151,2013.0,157300000000000.0,CAD     Canadian Dollar,http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=41e067b42d853410VgnVCM10000071d60f89RCRD&vgnextchannel=57a12cc817453410VgnVCM10000071d60f89RCRD,31117
+152,2014.0,17975.0,EUR     Euro,www.statistik-bw.de,43926
+153,2013.0,566889555.0,USD     US Dollar,City of Aspen - Finance Dept (Liz Woods),52897
+154,2016.0,36225000000.0,AUD     Australian Dollar,"ABS, 2016",43928
+155,2015.0,183992.0,MXN     Mexican Peso,INEGI,50369
+156,2015.0,235733000000.0,USD     US Dollar,https://www.bea.gov/newsreleases/regional/gdp_metro/2016/pdf/gdp_metro0916.pdf,35879
+157,2013.0,30990000000.0,CHF     Swiss Franc,Federal Statistical Office,31151
+158,2016.0,529700000.0,USD     US Dollar,Ministry of Economic Affairs,31112
+159,2013.0,2357007058.0,USD     US Dollar,,58488
+160,2015.0,58000000000.0,GBP     Pound Sterling,this is GVA (NOT GDP which is GVA+taxes-subsidies but this isn't available to us).  this is the Oxford Economics figure which has been deflated to 2013 prices and is the most used figure in policy documents.,35898
+161,,,,,54461
+162,,,,,46514
+163,2015.0,,CAD     Canadian Dollar,,59669
+164,2016.0,410300000000.0,,Singapore Statistics (official),35993
+165,,19088026316.0,DKK     Danish Krone,http://www.danskbyggeri.dk/media/7648/regional-oversigt-over-bnp-i-kommunerne.pdf,58610
+166,2015.0,74109000000.0,USD     US Dollar,https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=3#reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=naics&7005=-1&7006=40060&7036=-1&7001=2200&7002=2&7090=70&7007=2015&7093=levels (this is metro area and not city specific),49334
+167,2015.0,17000000000.0,DKK     Danish Krone,,62855
+168,2016.0,3300000000.0,ZAR     South African Rand,,35863
+169,2015.0,431704.0,USD     US Dollar,U.S. Bureau of Economic Analysis (regional data),54078
+170,,,PHP     Philippine Peso,,54356
+171,2017.0,174824110.0,IDR     Rupiah,Central Statistics Agency (BPS),31166
+172,2016.0,529676000000.0,USD     US Dollar,"Gross Domestic Product by Expenditures, National Statistics, R.O.C (Taiwan) (2016)",56276
+173,2015.0,517000000.0,EUR     Euro,Energy baseline emissions. This value was estimated. Official statistics of GDP at the municipal level are not available. The estimation was based on relevant economic and financial information provided by official statistics at municipal and regional level.,50671
+174,,,,,36154
+175,2015.0,119949000000.0,USD     US Dollar,https://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm,1184
+176,2015.0,23414000000.0,USD     US Dollar,"Bureau of Economic Analysis, Dept. of Commerce",54104
+177,2015.0,930817000000.0,USD     US Dollar,US Dept of Commerce (LA Metro Area),10894
+178,2015.0,1985000000.0,DKK     Danish Krone,The Ministry of Finance,58671
+179,2016.0,107287000.0,ARS     Argentine Peso,"Treasury Secretariat, Buenos Aires City Government",31155
+180,2015.0,1789700000000.0,PLN     Zloty,Central Statistical Office,54497
+181,2012.0,7600000000.0,USD     US Dollar,"City of Lancaster Finance Department; U.S. Census Bureau, 2012 Economic Census, 2012 Economic Census of Island Areas, and 2012 Nonemployer Statistics.",54057
+182,2014.0,19857903168.0,EUR     Euro,www.statistics.gr,31149
+183,2014.0,36358000000.0,USD     US Dollar,City of Columbia Office of Economic Development,55415
+184,2015.0,7207409711.0,USD     US Dollar,"Reflects current-dollar GDP for Cupertino, scaled down from metro area GDP of San Jose-Sunnyvale-Santa Clara, CA. Source: U.S. Dept. of Commerce Bureau of Economic Analysis, ""Gross Domestic Product by Metropolitan Area, 2015""",64014
+185,,,,,54443
+186,2015.0,54000000000.0,,Estimated from Venezuelan Central Bank figures,31159
+187,2016.0,9421016.0,,SEGES/PMV  & BGE; IJSN (2013).,50392
+188,2013.0,16409537.0,BRL     Brazilian Real,IBGE,54623
+189,2012.0,17000000000.0,USD     US Dollar,https://www.brookings.edu/wp-content/uploads/2016/07/annarbor.pdf,54092
+190,2014.0,149900000000.0,USD     US Dollar,https://www.stlouis-mo.gov/government/departments/budget/documents/upload/FY15-AOP-Summary-Overview-and-charts-S-1-to-S-82.pdf,35393
+191,2013.0,13231.0,EUR     Euro,INE(2013) Estudo do poder de compra,50673
+192,2016.0,3187000000.0,USD     US Dollar,"Banco Central del Ecuador, INEC (2010), Municipio de Guayaquil",36045
+193,2016.0,86740506.0,USD     US Dollar,"Le PIB, en Millions de dollars US (PPC 2016), est estimé par le capteur de données du total national du cahier de la CIA en fonction de la proportion de la population des Comores qui habitent Moroni (Notes_1). Le chiffre réel est probablement plus élevé, selon le cahier de l'enquête de la CIA, 50% de l'économie concerne l’agriculture et que les activités agricoles sont limitées à Moroni, ce qui est probablement un contributeur majeur à la fraction de 40% (Services) du PIB total (1259 milliards de dollars US ) Étant donné qu'il s'agit de la capitale avec un grand port.",59158
+194,,,,,58609
+195,2014.0,12341800000000.0,JPY     Japanese yen,"The calculation of citizen economy in Yokohama, 2014, (issued in 2016)",31113
+196,2014.0,226356000000.0,PLN     Zloty,Central Statistical Office of Poland,31185
+197,2014.0,8025000000.0,USD     US Dollar,Missouri Economy Research and Information Center,54100
+198,2015.0,78478000000.0,USD     US Dollar,Bureau of Economic Analysis,13067
+199,,,,,50672
+200,2015.0,1637750000.0,GIP     Gibraltar pound,https://www.gibraltar.gov.gi/new/sites/default/files/HMGoG_Documents/Abstract%202014.pdf,50650
+201,2015.0,18709027233.0,DKK     Danish Krone,Based on population and national GDP 2014,60433
+202,2016.0,529700000000.0,USD     US Dollar,Ministry of Economic Affairs,57347
+203,2014.0,22228328.0,CAD     Canadian Dollar,The Conference Board of Canada – Metropolitan Outlook 1: Winter 2015,50555
+204,2015.0,411161000000.0,USD     US Dollar,Bureau of Economic Analysis,31181
+205,2014.0,50688395.0,BRL     Brazilian Real,IBGE,35872
+206,,,,,61753
+207,2016.0,72600000000.0,NOK     Norwegian Krone,ssb.no,58395
+208,2010.0,68133192.0,,http://www.portugalglobal.pt/EN/InvestInPortugal/WhyPortugal/Lisbon/Documents/DatasheetNUTIII_Grande_Lisboa.pdf,36159
+209,2010.0,186000000000.0,USD     US Dollar,"BEA, BLS, Brookings",35862
+210,2014.0,563188000000.0,,Brookings Institution,3203
+211,2015.0,337000000000.0,USD     US Dollar,http://www.bsivjoburg.co.za/bsivjoburg/index.cfm/economic-overview/joburg-economic-overview/,31115
+212,,,CAD     Canadian Dollar,,43911
+213,2013.0,458449000000.0,NOK     Norwegian Krone,Statistics Norway,14088
+214,,,,,54108
+215,2012.0,4.0,COP     Colombian Peso,DANE,60374
+216,,,CAD     Canadian Dollar,,60602
+217,2013.0,26933203382.0,,http://www.centroestero.org/FTP/opploc/TorinoUrbanProfile2013.pdf,35886
+218,2015.0,69037000000.0,CHF     Swiss Franc,www.stadt-zuerich.ch/statistik,35449
+219,2015.0,193972000000.0,USD     US Dollar,BEA Denver Metro Area,32550
+220,2015.0,,EUR     Euro,,62180
+221,2014.0,8475831683.0,USD     US Dollar,"Department of Tourism, Culture, and Economic Development",63999
+222,2014.0,32600000000.0,BRL     Brazilian Real,IBGE,50383
+223,2015.0,431704000000.0,USD     US Dollar,US Bureau of Economic Analysis San Francisco-Oakland-Hayward Metropolitan area,50560
+224,2016.0,12302882987.0,ARS     Argentine Peso,"DIRECCIÓN GENERAL DE ESTADÍSTICAS Y CENSOS, GOBINERNO DE LA PROVINCIA DE CÓRDOBA",50371
+225,,,,,19233
+226,2014.0,4676285000.0,BRL     Brazilian Real,IBGE,60273
+227,2016.0,64500000000.0,EUR     Euro,https://public.tableau.com/profile/gemeente.amsterdam.economie#!/vizhome/EconomischeVerkenningenMRA2017_0/Kerncijfers,31148
+228,,,USD     US Dollar,City GDP data is not available,54119
+229,2015.0,128448000000.0,USD     US Dollar,U.S. Bureau of Economic Analysis; U.S. Bureau of Labor Statistics (Gross Regional Product for Cleveland-Elyria Metropolitan Service Area),35859

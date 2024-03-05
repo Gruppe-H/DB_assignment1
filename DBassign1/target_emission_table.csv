@@ -1,0 +1,654 @@
+target_emission_id;pct_reduction_target;target_year;Target_boundary;Estimated_business_as_usual;emission_id;sector
+1;2.0;;;;264;Total
+2;25.0;2020.0;;;265;Total
+3;7.0;2020.0;;;236;Total
+4;35.0;2020.0;;;161;Total
+5;40.0;2030.0;Overall community emissions;;172;Total
+6;80.0;2050.0;Overall community emissions;;172;Total
+7;20.0;2020.0;;;35;Total
+8;100.0;2030.0;community;;12;Total
+9;20.0;2020.0;;;266;
+10;20.0;2020.0;;;863;Total
+11;80.0;2020.0;city-wide control;;76;Waste
+12;20.0;2020.0;Electricity and petroleum fuels;;84;Other
+13;60.0;2027.0;City authority;;18;Total
+14;10.0;;;;135;Total
+15;40.0;2030.0;;;267;Total
+16;30.0;2020.0;Entire Inventory;;92;Total
+17;26.0;2020.0;;;19;Total
+18;30.0;2020.0;Energy consumption in the area, transport emissions, waste management, agriculture, industry;;65;Total
+19;39.0;2030.0;per capita emissions based on energy consumption, transport and waste management;;65;Total
+20;20.0;2020.0;Energy consumption in the area, transport emissions, waste water management;;65;Total
+21;35.0;2020.0;Energy production (electricity and heating) Energy effiency Waste treatment Traffic Residents's attitudes;;125;Buildings
+22;50.0;2025.0;Within the scope of the local authority;;173;Other
+23;20.0;2020.0;;;83;Other
+24;45.0;2020.0;Community emissions;;93;Total
+25;35.0;2020.0;Transportation, land use and waste;;122;Total
+26;73.0;2050.0;Transportation, land use and waste;;122;Total
+27;100.0;2040.0;all, but only scopes 1 and 2 are actually measured;;26;Total
+28;21.0;2020.0;;;240;Total
+29;20.0;2020.0;Sectores industrial y primario;;54;Other
+30;21.0;2020.0;City Energy consumption;;70;Other
+31;23.0;2020.0;;;268;Total
+32;25.5;2020.0;"buildings, equipment, facilities and industries; transport; waste management, waste water management, othe emissions (agricolture and other sources)";;77;Total
+33;23.0;2020.0;SEAP;;85;Other
+34;20.0;2020.0;Total inventory (sectors and specific projects see below);;856;Total
+35;80.0;2050.0;;;246;
+36;20.4;2020.0;;;103;
+37;23.9;2020.0;Entire emissions inventory;;89;Total
+38;20.0;2020.0;electricity production, agriculture, transports, industry,  commercial and residential;;170;Total
+39;20.0;2020.0;all;;68;Total
+40;80.0;2050.0;CO2;;90;Total
+41;50.0;2030.0;CO2;;90;Total
+42;100.0;2040.0;CO2, CH4, N20 and Energy for heating and cooling, electricity use and Energy for transport;;104;Other
+43;20.0;2020.0;The Municipality will intervene in several fields such as buildings, electricity, primary, secundary and tertiary sector, transportation, land planning, among other.;;269;Total
+44;21.0;2020.0;"The energy sector (actions independent of the local government); The construction sector (including households, public buildings, etc.); Transportation, environmental education, other activities.";;865;Total
+45;20.0;2020.0;Total municipal inventory;;176;Total
+46;30.0;2020.0;;;270;
+47;48.0;2020.0;Direct emissions from road transport and rail, and domestic and industrial emissions from electricity (end user) gas, oil and solid fuels, as well as emissions from land use, land use change, and forestry;;2;Total
+48;98.0;2050.0;;;55;Total
+49;20.0;2020.0;;;271;Total
+50;95.0;2050.0;;;69;Total
+51;86.0;2050.0;;;69;Total
+52;20.0;2020.0;Entire local government inventory;;105;Total
+53;25.0;2015.0;;;233;Total
+54;50.0;2020.0;;;233;Total
+55;100.0;2029.0;;;233;
+56;25.0;2025.0;;;246;
+57;28.0;2020.0;"Baseline emissions: 5.5 tonnes CO2e per person per year (in the year 2005); according to 2000-Watt-methodology";;74;Other
+58;55.0;2035.0;;;74;
+59;82.0;2050.0;;;74;
+60;95.0;2030.0;CO2, CH4, N2O,;;58;Total
+61;8.46;2020.0;Reduction of GHG, mainly CO2 by lowering energy use and more efficient use of renewable energy sources. It applies to investment processes and other, in sectors such as: exploitation of private and public buildings, city lights and public transport functions, municipal economy and industry, local power engineering, both conventional and based on renewable energy sources.;;272;Total
+62;24.0;2020.0;"transport; buildings; outdoor lighting; landfills; Waste water; gas & electricity distribution.";;273;
+63;30.0;2020.0;;;858;Other: Domestic buildings, industry and other businesses (including non-domestic buildings), traffic and waste treatment.
+64;100.0;2040.0;;;858;Other: Domestic buildings, industry and other businesses (including non-domestic buildings), traffic and waste treatment.
+65;15.0;2015.0;scope 1, scope 2 and some scope 3;;4;Total
+66;29.0;2020.0;Transports, buildings, local energy production;;158;Total
+67;4.0;2016.0;;;174;Total
+68;20.0;2020.0;CO2;;6;Other: Energy and mobility
+69;30.0;2020.0;Scope 1;;862;
+70;22.0;2020.0;Scope 1;;862;
+71;20.0;2020.0;;;274;Total
+72;35.0;2020.0;Total;;159;Total
+73;20.0;2020.0;Total;;159;Total
+74;20.0;2020.0;Road transport;;159;Transport
+75;20.0;2020.0;20% Reduction till 2020 opposite to 1990;;24;Total
+76;100.0;2030.0;100% climate neutral administration in Basel-City. CO2.;;24;Total
+77;40.0;2025.0;within city boudaries;;263;Total
+78;75.0;2040.0;within city boundaries;;263;Total
+79;13.0;2020.0;The City has an Energy2040 Vision where it  aims to improve efficiency in electricity and transport, as well as cleaner electricity supply.;;21;Total
+80;20.0;2015.0;All sources;;99;Total
+81;100.0;2025.0;All sources;;99;Total
+82;45.0;2025.0;City of Los Angeles;;137;Total
+83;24.5;2020.0;CO2;;139;Total
+84;40.0;2040.0;;;80;Total
+85;50.0;2020.0;CO2, CH4, N2O,;;58;Total
+86;25.0;2020.0;all sources all scopes;;132;Total
+87;75.0;2050.0;all sources all scopes;;132;Total
+88;40.0;2030.0;GPC standard, BASIC format;;132;Total
+89;24.0;2020.0;CO2, CH4, N20 and Energy for heating and cooling, electricity use and Energy for transport;;104;Other
+90;30.0;2020.0;scope 1, scope 2 and some scope 3;;4;Total
+91;20.0;2020.0;all sources of CO2 emissions;;16;Total
+92;20.0;2020.0;emissions (scope 1 and 2) due to Building heating (residential, terziary, industry, public and private) domestic uses other uses (tertiary, industry) public lighting mobility (public and private);;120;Total
+93;29.1;2020.0;Tertiary (non municipal) buildings, equipment/facilities;;59;Buildings
+94;13.1;2020.0;Residential buildings;;59;Buildings
+95;39.2;2020.0;Private and Commercial Transport;;59;Transport
+96;22.9;2020.0;Total inventory;;59;Total
+97;80.0;2050.0;CO2;;52;Other
+98;23.0;2020.0;Transport;;100;Transport
+99;15.0;2020.0;Residential;;100;Buildings
+100;80.0;2050.0;;;119;Total
+101;0.0;2020.0;Tertiary;;100;Other:
+102;10.0;2030.0;Residential, Commercial, Industrial;;56;Buildings
+103;20.0;2030.0;;;56;Transport
+104;10.0;2030.0;;;56;Waste
+105;76.0;2050.0;Community;;113;Total
+106;30.0;2020.0;Scope 1 Scope 2 Scope 3;;165;Other
+107;80.0;2050.0;Scope 1 Scope 2 Scope 3;;165;Other
+108;20.0;2020.0;city-wide control;;76;Buildings
+109;20.0;2020.0;city-wide control;;76;Transport
+110;10.0;2025.0;Residential/Commercial/Industrial/Public building energy use, transportation, fuel production and shipping, water/wastewater, food, cement, agricultural, and municipal solid waste.;;275;Total
+111;15.0;2020.0;Key findings by sector provide guidance for where strategies can perhaps slow future emissions growth. • GHG emissions from the energy sector are anticipated to increase slightly from 79.5 percent (2010) to 79.9 percent (2020). • The transportation-related emissions are anticipated to decrease from 15.6 percent (2010) to 15.2 percent (2020). • The waste-related emissions are anticipated to remain unchanged at 2.8 percent. • Wastewater treatment GHG emissions are expected to remain unchanged at 1.5 percent. • GHG emissions from the water sector are anticipated to remain unchanged at 0.7 percent. All GHG emissions have been calculated and presented in metric tons of carbon dioxide equivalent emissions per year (MT CO2e/yr).;;257;Other
+112;7.0;2012.0;City limits;;276;Total
+113;10.0;2020.0;Residential Electricity and Natural Gas Use, Commercial/Industrial Electricity and Natural Gas Use, On Road Transportation, Off Road Equipment, Waste, Water Supply, Treatment, and Delivery;;130;Total
+114;80.0;2050.0;Electricity, natural gas, transportation, landfill;;109;Total
+115;20.0;2020.0;Agriculture, waste, transportation, commercial, residential, industrial (not steel), industrial (steel sector);;117;Total
+116;50.0;2030.0;Agriculture, waste, transportation, commercial, residential, industrial (not steel), industrial (steel sector);;117;Total
+117;20.0;2020.0;community-wide emissions;;79;Total
+118;20.0;2020.0;The target applies to all emissions tracked in the inventory (electricity, natural gas, gasoline, diesel, landfill gas);;108;Total
+119;50.0;2036.0;The target applies to all emissions tracked in the inventory (electricity, natural gas, gasoline, diesel, landfill gas);;108;Total
+120;80.0;2050.0;The target applies to all emissions tracked in the inventory (electricity, natural gas, gasoline, diesel, landfill gas);;108;Total
+121;100.0;2050.0;;;857;Total
+122;20.0;2020.0;;;860;Total
+123;16.0;2020.0;All sources included in GHG inventory;;106;Total
+124;40.0;2030.0;All sources included in GHG inventory;;106;Total
+125;80.0;2050.0;All sources included in GHG inventory;;106;Total
+126;20.0;2020.0;Solid Waste Commercial Energy Industrial Energy Residential Energy Transportation & Mobile Sources Water and Wastewater;;7;Total
+127;1.0;2020.0;Scope 1 & 2 community emissions from residential & commercial buildings, public infrastructure, transportation, waste and water/wastewater.;;97;Total
+128;80.0;2050.0;Community emissions as reported in our GHG inventory;;97;Total
+129;30.0;2030.0;commercial buildings, residential buildings, industrial buildings, transportation;;166;Other
+130;35.0;2035.0;Total greenhouse gas emissions within City of Edmonton Boundary;;22;Total
+131;10.0;2020.0;Gasoline, Diesel, Natural Gas, Electricity;;115;Other
+132;75.0;2050.0;Gasoline, Diesel, Natural Gas, Electricity;;115;Other
+133;50.0;2030.0;In boundary fossil fuel use: Gasoline, Diesel, Natural Gas;;115;Other
+134;10.0;2012.0;Agriculture, waste, transportation, commercial, residential, industrial (not steel), industrial (steel sector);;117;Total
+135;80.0;2050.0;"Residential, Commercial, Industrial - electricity & natural gas; Transportation; Solid Waste";;149;Total
+136;80.0;2050.0;Agriculture, waste, transportation, commercial, residential, industrial (not steel), industrial (steel sector);;117;Total
+137;20.0;2020.0;City of Hayward;;163;Total
+138;20.0;2020.0;Knoxville area;;37;Total
+139;20.0;2015.0;Entire Inventory;;148;Total
+140;20.0;2025.0;City of Lakewood jurisdictional boundary;;36;Total
+141;50.0;2050.0;City of Lakewood jurisdictional boundary;;36;Total
+142;80.0;2050.0;;;860;Total
+143;15.0;2020.0;"GHG sources to which the target applies: city wide fossil fuel use (except aviation, marine, railway); indirect emissions from electricity use (grid-average for Ontario); landfill gas";;5;Total
+144;37.0;2030.0;"GHG sources to which the target applies: city wide fossil fuel use (except aviation, marine, railway); indirect emissions from electricity use (grid-average for Ontario); landfill gas";;5;Total
+145;80.0;2050.0;"GHG sources to which the target applies: city wide fossil fuel use (except aviation, marine, railway); indirect emissions from electricity use (grid-average for Ontario); landfill gas";;5;Total
+146;80.0;2050.0;scope 1, scope 2 and some scope 3;;4;Total
+147;30.0;2020.0;entire city;;277;Total
+148;36.0;2020.0;Transportation & Land Use Energy Use Material Consumption & Waste;;39;Transport
+149;20.0;2020.0;City wide emissions;;73;Total
+150;80.0;2030.0;City wide emissions;;73;Total
+151;100.0;2032.0;Scope 1 Scope 2  Scope 3;;278;Total
+152;20.0;2025.0;Pittsburgh City limits;;146;Total
+153;50.0;2030.0;Pittsburgh City limits;;146;Transport
+154;80.0;2050.0;Total - Scope 1,2,3;;13;Total
+155;15.0;2020.0;Jurisdictional boundary;;853;Total
+156;49.0;2035.0;Jurisdictional boundary;;853;Total
+157;83.0;2050.0;Jurisdictional boundary;;853;Total
+158;50.0;2050.0;;;261;Total
+159;15.0;2015.0;"Residential, Commercial, Industrial - electricity & natural gas; Transportation; Solid Waste";;149;Total
+160;100.0;2050.0;All activities inside the municipal boundary;;151;Total
+161;25.0;2020.0;;;119;Total
+162;25.0;2035.0;Community-wide emissions;;145;Total
+163;6.0;;All in inventory.;;110;Total
+164;20.0;2020.0;Residential, commercial, industrial buildings;;121;Buildings
+165;30.0;2025.0;Town wide;;118;Total
+166;80.0;2050.0;Our original target boundary only included residential, commercial, industrial, municipal and transportation.  See comments for further explanation;;259;Total
+167;30.0;2020.0;All;;1;Total
+168;90.0;2050.0;All residential, commercial, and industrial sources including transportation, landfills, electricity generation, heating, cooling, water treatment, wastewater treatment, all.;;150;Total
+169;25.0;2020.0;total community emissions;;27;Total
+170;80.0;2050.0;Scope 1 and 2 emissions;;10;Total
+171;25.0;2020.0;Scope 1 and 2 emissions;;10;Total
+172;60.0;2035.0;City of Los Angeles;;137;Total
+173;80.0;;City of Los Angeles;;137;Total
+174;80.0;2050.0;Scopes 1&2;;42;Total
+175;40.0;2030.0;"Scope 1 (except fugitive emissions), Scope 2 and ""waste disposal""";;138;Total
+176;80.0;2050.0;"Scope 1 (except fugitive emissions), Scope 2 and ""waste disposal""";;138;Total
+177;80.0;2020.0;Multnomah County;;138;Total
+178;20.0;2012.0;Residential, Commercial/Industrial, Transportation, Waste.;;114;Total
+179;25.0;2017.0;Residential, Commercial/Industrial, Transportation, Waste.;;114;Total
+180;40.0;2025.0;Residential, Commercial/Industrial, Transportation, Waste.;;114;Total
+181;80.0;2050.0;Residential, Commercial/Industrial, Transportation, Waste.;;114;Total
+182;100.0;2050.0;Road transportation Building energy Waste;;62;Total
+183;80.0;2050.0;City;;162;Total
+184;80.0;2050.0;Applies to all Toronto (community) electricity, natural gas, transportation and solid waste emissions;;17;Total
+185;33.0;2020.0;All buildings, transportation and solid waste from the community;;78;Total
+186;20.0;2020.0;All existing buildings;;78;Buildings
+187;15.0;2015.0;Building energy use (residential, commercial, government), transportation (VMTs), solid waste, transit.;;23;Total
+188;20.0;2020.0;Building energy use (residential, commercial, government), transportation (VMTs), solid waste, transit.;;23;Total
+189;50.0;2032.0;Building energy use (residential, commercial, government), transportation (VMTs), solid waste, transit.;;23;Total
+190;80.0;2050.0;Building energy use (residential, commercial, government), transportation (VMTs), solid waste, transit.;;23;Total
+191;21.0;2020.0;Administrative boundary of a local government;;262;Other: Residential
+192;30.0;2030.0;Buildings and streetlights Fugitive Emissions Transportation;;15;Total
+193;40.0;;Suwon total emissions;;133;Total
+194;35.0;2025.0;Buildings and streetlights Fugitive Emissions Transportation;;15;Buildings
+195;80.0;2050.0;Buildings and streetlights Fugitive Emissions Transportation;;15;Total
+196;15.0;2020.0;;;156;Total
+197;100.0;2040.0;City of Hermosa Community  emissions;;169;Total
+198;15.0;2020.0;City of North Vancouver municipal boundary;;60;Total
+199;50.0;2050.0;City of North Vancouver municipal boundary;;60;Total
+200;20.0;2020.0;Vail town limits;;279;Total
+201;52.0;2020.0;GHG emission (electricity,fuel,waste) of commercial establishment per the GHG Tracker System;;34;Other
+202;30.0;2020.0;Carbon Reduction Ratio by GHG Sources Industrial                           30.7% Domestic                          14.8% Commercial                        5.8% Transportation                  20.9% Wastes                               1.5% Agriculture, Livestocks       6.2% Others                               20.2%;;280;Total
+203;100.0;2020.0;- Electricity - Gas - Transport - Waste;;11;Total
+204;70.0;2030.0;Emissions from sources: electricity, gas, transportation and waste within the operational boundary of City of Sydney;;112;Total
+205;7.0;2020.0;Administrative boundary of a local government;;262;Other: Commercial
+206;8.0;2020.0;Administrative boundary of a local government;;262;Other: Industries
+207;4.0;2020.0;Administrative boundary of a local government;;262;Other: Energy Industries
+208;50.0;2020.0;Administrative boundary of a local government;;262;Transport
+209;2.0;2020.0;Administrative boundary of a local government;;262;Waste
+210;22.0;2020.0;Administrative boundary of a local government;;262;Other: 5 gases other than CO2
+211;16.0;2020.0;Administrative boundary of a local government;;262;Total
+212;25.0;2020.0;Transportation, Citizen's cultural place etc.;;63;Transport
+213;11.0;2020.0;Total GHG (nation-wide);;235;Total
+214;30.0;2030.0;;;94;Total
+215;20.0;2030.0;;;94;Other: Industrial and Commercial sector
+216;20.0;2030.0;;;94;Other: Residential sector
+217;60.0;2030.0;;;94;Transport
+218;20.0;2015.0;City hall, ward office, businesses, community service center buildings and cars. (scope 1 + scope 2);;281;Total
+219;10.0;2020.0;City-wide;;116;Total
+220;40.0;2040.0;City-wide;;116;Total
+221;50.0;2050.0;City-wide;;116;Total
+222;40.0;2020.0;all;;75;Total
+223;100.0;2050.0;all;;75;Total
+224;42.0;2020.0;Pedestrian Improvement and creation of elevated pathways;;34;Transport
+225;13.0;2020.0;Trees planted;;34;Other
+226;100.0;2025.0;All emissions relating to the municipality.;;128;Total
+227;35.0;2020.0;All emissions relating to the municipality.;;128;Total
+228;25.0;2020.0;市民・事業者における排出源等、算定分野全て;;126;Total
+229;4.2;2020.0;;;153;Other
+230;30.0;2031.0;;;282;Total
+231;20.0;2015.0;Scope 1 + Scope 2;;283;Total
+232;33.0;2020.0;Transportation;;284;Transport
+233;5.0;2020.0;Corporation and residential department, industrial department, transportation, energy and waste, and agriculture and forestry.;;285;Total
+234;10.0;2025.0;Corporation and residential department, industrial department, transportation, energy and waste, and agriculture and forestry.;;285;Total
+235;20.0;2020.0;Kaohsiung City;;31;Total
+236;0.0;2016.0;Administrative boundary of a local government;;32;Total
+237;20.0;2026.0;Administrative boundary of a local government;;32;Total
+238;30.0;2030.0;All emissions within the municipality boundary;;168;Total
+239;5.0;;Suwon total emissions;;133;Total
+240;20.0;;Suwon total emissions;;133;Total
+241;0.0;2020.0;All city;;72;Total
+242;25.0;2030.0;All city;;72;Total
+243;50.0;2050.0;All city;;72;Total
+244;50.0;2050.0;Taoyuan City;;134;Total
+245;20.0;2015.0;;;286;
+246;10.0;2020.0;City;;162;Total
+247;40.0;2030.0;City;;162;Total
+248;65.0;2050.0;City;;162;Total
+249;25.0;2016.0;;;154;Total
+250;10.0;2016.0;Lima metropolitana;;51;Transport
+251;40.0;2020.0;Os resultados de emissões anuais totais médias do DF por categoria indicam uma predominância de emissões advindas da categoria Transporte (setor Energia), seguida pelas categorias Produção de cimento (setor IPPU) e Disposição de resíduos sólidos em sítios não manejados (setor Resíduos), que em conjunto representam 79,82% das emissões do DF e se configuram como as mais emissoras no inventário de GEE do DF. Além disso, essas categorias configuram-se como as que mais contribuíram para o crescimento das emissões em termos absolutos.;;45;Total
+252;20.0;2020.0;Territorio municipal;;203;Total
+253;25.23;2020.0;;;287;Total
+254;45.0;2040.0;Hacia una movilidad urbana baja en carbono (Promoción del transporte masivo);;33;Transport
+255;17.0;2040.0;Reducción de emisiones de GEI asociada a la gestión de residuos sólidos;;33;Waste
+256;35.0;2040.0;Disminución de emisiones de GEI a nivel residencial;;33;Buildings
+257;63.0;;Disminución de emisiones de GEI a nivel comercial;;33;Buildings
+258;23.0;;Eficiencia en el sector industrial;;33;Buildings
+259;20.0;2030.0;Buildings, electricity, fuel and sanitation/waste treatment and discharge;;30;Total
+260;42.0;2020.0;agriculture, livestock, residential and services, waste, transport, transverse;;41;Other
+261;30.0;2030.0;The reduction target purposed by Buenos Aires City includes our entire emissions inventory;;91;Total
+262;30.0;2025.0;5% reduction per year of the projected growth rate of emissions, starting 2019;;180;Total
+263;16.0;2016.0;Road Transportation, Railway, Residential, Commercial, Public Sector, fugitive emissions and other, Forest and land use, Urban Solid Waste, wastewater.;;67;Total
+264;20.0;2020.0;Road Transportation, Railway, Residential, Commercial, Public Sector, fugitive emissions and other, Forest and land use, Urban Solid Waste, wastewater.;;67;Total
+265;100.0;2065.0;Community-scale emissions and emissions of Rio responsibility from outside the city boundary. Carbon compensation is considered for achieving this goal.;;67;Total
+266;20.0;2020.0;;;855;Total
+267;97.0;2030.0;;;867;Total
+268;34.0;2020.0;;;868;Buildings
+269;25.0;2020.0;;;868;Buildings
+270;18.0;2020.0;;;868;Buildings
+271;23.0;2020.0;;;868;Transport
+272;38.0;2020.0;;;868;Other: public lighting - energy regeneration
+273;6.0;2020.0;Within the municipality boundaries;;61;Total
+274;2.0;2012.0;;;288;Total
+275;15.0;2020.0;City of Piedmont;;144;Total
+276;20.0;2020.0;Community sector: - Waste management - road transport;;227;Total
+277;25.0;2020.0;Total emissions within the inventory boundary;;212;Total
+278;95.0;2050.0;;;43;Total
+279;100.0;2050.0;Municipal boundary/city limits;;82;Total
+280;6.0;;CO2 CH4 NO2 HFCs;;127;Total
+281;100.0;2030;;;12;
+282;19.0;2020;;;215;Buildings
+283;6.0;2020;;;215;Transport
+284;18.0;2020;;;217;Total
+285;1.0;2020;;;217;Buildings
+286;27.0;2020;;;217;Transport
+287;74.0;2020;;;217;Waste
+289;;;;;289;Transport
+290;;;;;289;Waste
+292;10.0;2020;;;116;Total
+293;40.0;2040;;;116;Total
+294;50.0;2050;;;116;Total
+295;50.0;2030;;;159;Transport
+296;40.0;2030;;;159;Total
+297;20.0;2020;;;863;Total
+298;40.0;2030;;;251;Total
+299;;2020;;14910000.0;291;Transportation
+300;;2020;;26850000.0;291;Stationary energy (buildings)
+301;;2020;;4730000.0;291;Waste
+302;20.0;2020;;;84;Total
+303;20.0;2020;;;24;Total
+305;25.0;2030;;;154;Total
+307;33.0;2030;;;25;Total
+308;62.0;2050;;;258;Total
+310;100.0;2025;;;207;Total
+311;40.0;2020;;;75;Total
+312;100.0;2050;;;75;Total
+313;;;;;280;Waste
+314;42.0;2020;;;34;
+315;52.0;2020;;;34;
+316;13.0;2020;;;34;
+317;100.0;2025;;;128;
+318;35.0;2020;;;128;Total
+319;10.0;;;;135;
+320;40.0;2030;;;267;
+321;34.0;2020;;;868;Buildings
+322;25.0;2020;;;868;Buildings
+323;18.0;2020;;;868;Buildings
+324;23.0;2020;;;868;Transport
+325;38.0;2020;;;868;Other: Public Lighting - energy regeneration
+326;10.0;2030;;;56;
+327;20.0;2030;;;56;
+328;;2030;;;56;
+329;25.0;2025;;;246;Total
+330;90.0;2050;;;246;Total
+331;76.0;;;;113;Other: Community-wide (everything)
+332;30.0;2020;;;165;
+333;80.0;2050;;;165;
+334;40.0;2030;;;175;Total
+335;20.0;2020;;;76;Buildings
+336;20.0;2020;;;76;Transport
+337;80.0;2020;;;76;Waste
+338;100.0;2050;;;150;Total
+339;15.0;2020;;;257;Total
+340;7.0;2012;;;276;
+341;10.0;2020;;;130;
+342;25.0;2020;;;27;Total
+343;100.0;2050;;;27;Total
+344;80.0;2050;;;109;Total
+345;30.0;;;;92;Other:
+346;40.0;2020;;;45;Total
+347;15.0;2020;;;156;Total
+348;;2030;;17314751.0;91;
+349;16.0;2020;;;106;Total
+351;20.0;2020;;;79;
+352;20.0;2020;;;108;Total
+353;50.0;2036;;;108;Total
+354;80.0;2050;;;108;Total
+355;100.0;2050;;;220;Total
+356;;Other: 2022;;4714983.0;21;Residential buildings
+357;;Other: 2022;;8365386.0;21;Commercial buildings
+358;;Other: 2022;;2546299.0;21;Industrial buildings
+359;;Other: 2022;;174402.0;21;Public buildings
+360;;Other: 2022;;9008621.0;21;Transportation
+361;;Other: 2022;;162336.0;21;Wastewater
+362;26.0;2020;;;19;Other:
+363;100.0;2050;;;857;
+364;10.0;2035;;;230;Total
+366;80.0;2050;;;10;Total
+367;25.0;2020;;;10;Total
+368;84.0;2050;;;195;Total
+369;40.0;2030;;;195;Total
+371;40.0;2030;;;106;Total
+372;80.0;2050;;;106;Total
+373;7.0;2016;;;242;Total
+374;20.0;2020;;;7;Total
+375;;2025;;900000.0;99;Total
+376;20.0;2020;;;163;Total
+377;15.0;2020;;;243;Total
+378;49.0;2035;;;243;Total
+379;83.0;2050;;;243;Total
+380;100.0;2050;;;82;
+383;1.0;2020;;;97;Total
+384;80.0;2050;;;97;Total
+385;;2030;;10084260.0;166;
+386;35.0;2035;;;22;Total
+387;25.0;2035;;;22;Other:
+388;25.0;;;;22;Other:
+389;40.0;2030;;;172;
+390;80.0;2050;;;172;
+391;80.0;2050;;;209;Total
+392;60.0;;;;209;Other:
+393;7.6;2020;;;115;Total
+394;80.0;2050;;;205;Total
+395;20.0;2020;;;189;Total
+396;20.0;2020;;;274;Total
+397;0.0;2020;;;185;Total
+398;10.0;2012;;;117;Total
+399;20.0;2020;;;117;Total
+400;50.0;2030;;;117;Total
+401;80.0;2050;;;117;Total
+402;30.0;2020;;;65;Total
+403;39.0;2030;;;65;Total
+404;20.0;2020;;;65;Total
+405;27.0;2025;;;98;Total
+406;80.0;2050;;;98;Total
+408;20.0;2020;;;37;Total
+409;70.0;2030;;;293;Total
+411;35.0;2020;;;125;Total
+412;20.0;2015;;;148;
+413;20.0;2025;;;36;Total
+414;50.0;2050;;;36;Total
+415;15.0;2020;;;241;Total
+416;40.0;2030;;;241;Total
+417;60.0;2040;;;241;Total
+418;80.0;2050;;;241;Total
+419;40.0;2030;;;83;Total
+420;40.0;2030;;;83;Transport
+421;40.0;2030;;;83;Other:
+422;30.0;2020;;;88;Total
+423;15.0;2020;;;5;Total
+424;37.0;2030;;;5;Total
+425;80.0;2050;;;5;Total
+426;15.0;2020;;;861;Buildings
+427;10.0;2020;;;861;Transport
+428;45.0;2025;;;137;Total
+429;60.0;2035;;;137;Total
+430;80.0;2050;;;137;Total
+431;55.0;;;;137;Other: total Los Angeles economy
+432;40.0;2020;;;232;
+433;100.0;2050;;;193;Total
+434;100.0;2020;;;11;Total
+435;25.0;2020;;;852;
+436;15.0;2015;;;4;Total
+437;30.0;2025;;;4;Total
+438;80.0;2050;;;4;Total
+439;50.0;2030;;;141;Total
+440;15.0;2020;;;60;Total
+441;50.0;2050;;;60;Total
+442;30.0;2020;;;277;Total
+443;36.0;2020;;;39;Total
+444;50.0;2020;;;58;Total
+445;95.0;2030;;;58;Total
+446;100.0;2020;;;58;Buildings
+447;12.0;2024;;;252;Total
+448;80.0;2050;;;252;Total
+449;20.0;2020;;;73;Total
+450;80.0;2030;;;73;Total
+452;25.0;2020;;;132;Total
+453;75.0;2050;;;132;Total
+454;40.0;2030;;;132;Buildings
+455;100.0;2032;;;278;Total
+456;80.0;2050;;;42;Total
+457;15.0;2020;;;144;
+458;20.0;2025;;;146;Total
+459;50.0;2030;;;146;Total
+460;50.0;2030;;;146;Buildings
+461;50.0;2030;;;146;Transport
+462;20.0;2020;;;295;Buildings
+463;20.0;2020;;;295;Transport
+464;20.0;2020;;;295;Other: Public lighting
+466;80.0;2050;;;138;Total
+467;45.0;2020;;;93;Total
+468;2.0;2012;;;288;Total
+469;100.0;2050;;;214;Total
+470;35.0;2020;;;122;
+471;73.0;2050;;;122;
+472;15.0;2020;;;297;
+473;40.0;2030;;;297;
+474;80.0;2050;;;297;
+475;80.0;2050;;;13;
+477;40.0;2030;;;184;Total
+478;15.0;2020;;;853;
+479;49.0;2035;;;853;
+480;83.0;2050;;;853;
+482;50.0;2035;;;48;Total
+483;;2035;;16715020.0;48;
+484;80.0;2050;;;114;Total
+485;40.0;2025;;;114;Total
+486;25.0;2017;;;114;Total
+488;25.0;2020;;;228;Total
+489;30.0;2020;;;223;Total
+490;80.0;2050;;;223;Total
+491;15.0;2015;;;149;Total
+492;80.0;2050;;;149;Total
+493;15.0;Other: 2023;;;199;Total
+494;80.0;2050;;;199;Total
+495;100.0;2050;;;62;Total
+496;45.0;;;;299;Other: Total city-wide emissions
+497;22.0;2020;;;262;Other: 5 gases other than C2
+498;100.0;2050;;;151;Total
+499;80.0;2050;;;119;Total
+500;100.0;2040;;;104;Total
+501;70.0;2030;;;112;Total
+502;80.0;2050;;;300;
+503;30.0;2020;;;17;Total
+504;80.0;2050;;;17;Total
+505;100.0;2040;;;26;Total
+506;33.0;2020;;;78;Total
+507;20.0;2020;;;78;Buildings
+508;25.0;2035;;;145;
+509;100.0;2050;;;226;Total
+510;25.0;2025;;;226;Total
+511;40.0;;;;167;Other: Total
+512;6.0;;;;110;Total
+513;21.0;2020;;;240;Total
+514;16.0;2020;;;262;Total
+515;21.0;2020;;;262;Other: Residential
+516;7.0;2020;;;262;Other: Commercial
+517;8.0;2020;;;262;Other: Industries
+518;4.0;2020;;;262;Other: Energy Industries
+519;50.0;2020;;;262;Transport
+520;2.0;2020;;;262;Waste
+521;;2020;;;262;Other: Absorption through forests and tree planting
+522;20.0;2020;;;54;
+524;20.0;2020;;;35;
+525;23.0;2020;;;268;
+526;25.5;2020;;;77;Total
+527;21.0;2020;;;197;Total
+528;35.0;2020;;;197;Total
+529;40.0;2030;;;197;Total
+530;80.0;2050;;;197;Total
+531;23.0;2020;;;85;
+532;20.0;2020;;;120;Total
+533;24.8;2020;;;302;Total
+534;25.0;2020;;;265;
+535;25.23;2020;;;287;
+536;;2020;;;303;Public buildings
+537;20.0;2020;;;856;Total
+538;20.0;2020;;;304;Total
+539;20.0;;;;304;Other: Total
+540;20.4;2020;;;103;
+541;23.9;2020;;;89;
+542;20.0;2020;;;170;
+543;23.0;2020;;;59;Total
+544;80.0;2032;;;23;Total
+545;;2040;;3503458.0;180;Stationary energy (buildings)
+546;;2040;;5293629.0;180;Transportation
+547;;2040;;1348291.0;180;Waste
+548;;2040;;1580735.0;180;Residential buildings
+549;;2040;;798789.0;180;Public buildings
+550;;2040;;0.0;180;Commercial buildings
+551;;;;1119098.0;180;Industrial buildings
+552;;;;0.0;180;Wastewater
+553;20.0;2020;;;68;
+554;7.0;2020;;;236;Total
+555;20.0;2020;;;239;Total
+556;85.0;2030;;;239;Total
+557;100.0;2050;;;239;Total
+558;21.0;2020;;;238;Total
+559;25.0;2020;;;869;Total
+560;100.0;2050;;;869;Total
+561;100.0;2030;;;867;Total
+562;80.0;2050;;;90;
+563;50.0;2030;;;90;
+564;21.0;2020;;;865;
+565;100.0;2035;;;234;Total
+566;25.0;2020;;;29;Total
+567;40.0;2020;;;176;Total
+568;30.0;2020;;;270;
+570;20.0;2020;;;203;
+572;50.0;;;;123;Other: Total
+573;65.0;;;;123;Other: Total
+574;60.0;2025;;;52;Total
+575;80.0;2050;;;52;Total
+576;48.0;2020;;;2;Total
+577;95.0;2050;;;55;Total
+578;20.0;2020;;;271;
+579;6.0;2018;;;306;Total
+580;12.0;2021;;;306;Total
+581;17.0;2026;;;306;Total
+582;5.0;2020;;;285;
+583;10.0;2025;;;285;
+584;58.0;;;;210;Other:
+585;;2020;;67326998.0;31;Stationary energy (buildings)
+586;95.0;2050;;;69;
+587;86.0;2050;;;69;
+588;30.0;2020;;;307;
+589;30.0;2025;;;118;
+591;;2025;;620000.0;51;Waste
+592;;2025;;;188;Buildings
+593;;2025;;;188;Transport
+594;50.0;2025;;;188;Total
+595;30.0;2030;;;308;
+598;;2020;;;221;Stationary energy (buildings)
+599;;Other:;;;221;Transportation
+600;;2020;;;221;Waste
+601;76.0;;;;866;Other: Total
+602;20.0;2030;;;30;Total
+603;10.0;2016;;;311;Other: Energy
+604;15.0;2016;;;311;Waste
+605;5.0;2016;;;311;Other: Agriculture
+606;20.0;2016;;;311;Transport
+607;20.0;;;;311;Stationary energy (buildings)
+608;50.0;;;;311;Waste
+609;0.0;;;;311;Other: Agriculture
+610;30.0;;;;311;Transportation
+611;;Other: 2018;;53990.0;311;Stationary energy (buildings)
+612;;Other: 2018;;49956.0;311;Transportation
+613;;Other:;;767.3;311;Waste
+614;11.28;2020;;;44;Total
+615;24.6;2030;;;44;Total
+616;19.62;2040;;;44;Total
+617;;2040;;5171113.0;44;Transportation
+618;;2040;;420219.0;44;Industrial buildings
+619;;2040;;405712.0;44;Commercial buildings
+620;;2040;;792509.0;44;Residential buildings
+621;;2040;;700000.0;44;Waste
+622;20.0;2020;;;864;Total
+623;20.0;2020;;;219;Total
+624;20.0;2020;;;105;
+625;25.0;2030;;;32;Other: Stationary energy (buildings)
+626;25.0;2030;;;32;Other: Industrial buildings
+627;25.0;2030;;;32;Transport
+628;25.0;2030;;;32;Waste
+629;40.0;2030;;;15;Total
+630;80.0;2050;;;15;Total
+631;10.0;2020;;;312;Total
+632;30.0;2030;;;168;
+634;42.0;2020;;;41;
+636;20.0;2020;;;67;Total
+637;5.0;2015;;;314;Total
+638;20.0;2020;;;314;Total
+639;80.0;2050;;;314;Total
+640;54.0;2020;;;315;Total
+641;100.0;2020;;;316;Total
+642;80.0;2040;;;198;
+643;21.0;2020;;;157;Total
+644;36.0;2030;;;235;Other: Nation-wide
+645;25.0;2015;;;233;
+646;50.0;2020;;;233;
+647;100.0;2029;;;233;
+648;95.0;2050;;;43;Total
+649;28.0;2020;;;74;Total
+650;55.0;2035;;;74;Total
+651;82.0;2050;;;74;Total
+652;10.0;2022;;;196;Total
+653;50.0;2050;;;183;Total
+654;20.0;2030;;;183;Total
+655;25.0;2030;;;72;Total
+656;50.0;2050;;;72;Total
+658;50.0;2050;;;134;Total
+659;8.46;2020;;;272;
+661;24.0;2020;;;273;
+662;20.0;2020;;;211;
+663;30.0;2020;;;858;Total
+664;100.0;2040;;;858;Total
+665;30.0;2030;;;94;Total
+666;29.0;2020;;;158;
+667;6.0;2020;;;61;Total
+668;80.0;2050;;;259;Other: Public
+669;20.0;2020;;;279;
+672;30.0;2020;;;862;
+673;22.0;2020;;;862;
+674;30.0;2020;;;1;Total
+675;46.0;;;;225;Stationary energy (buildings)
+676;20.0;2020;;;227;
+677;26.2;2020;;;47;Total
+678;10.0;2020;;;162;Total
+679;40.0;2030;;;162;Total
+680;65.0;2040;;;162;Total
+681;80.0;2050;;;162;Total
+682;80.0;2050;;;162;Other: Corporate

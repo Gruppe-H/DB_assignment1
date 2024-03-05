@@ -1,0 +1,870 @@
+Organization_id,Organization_name
+58796,Odder Kommune
+36158,Comune di Napoli
+62855,Egedal Municipality
+61790,"City of Emeryville, CA"
+62180,Communauté urbaine du Grand Nancy
+54425,Amiens Métropole
+50679,Barreiro
+1850,Birmingham City Council
+58609,City of Ærøskøbing
+59151,City of Akureyri
+31052,City of Cardiff
+8242,City of Helsinki
+54402,City of Lahti
+54529,City of Leicester
+36159,City of Lisbon
+46514,City of Porto
+54459,City of Reykjavík
+50154,City of Turku
+54497,City of Wroclaw
+36274,Comune di Bologna
+36261,Comune di Bolzano
+36286,Comune di Ferrara
+36495,Comune di Piacenza
+36263,Comune di Ravenna
+36518,Comune di Udine
+31313,Dublin City Council
+35868,Free and Hanseatic City of Hamburg
+3429,City of Stockholm
+50681,Funchal
+59165,Gladsaxe Kommune
+31055,Glasgow City Council
+58797,Hørsholm Kommune
+54443,Landeshauptstadt Magdeburg
+55442,Município de Moita
+58488,Sonderborg Kommune
+58537,Tarnów
+50211,Tbilisi City
+35879,City of Minneapolis
+35755,Village of Kadiovacik
+54520,Ville de Lausanne
+60114,City of Gdynia
+35858,City of Cape Town
+31115,City of Johannesburg
+31175,City of Paris
+31185,City of Warsaw
+3422,Greater London Authority
+35393,City of St Louis
+55467,"City of Aurora, CO"
+58636,"City of Bellingham, WA"
+49787,City of Benicia
+2430,City of Burlington
+54108,City of Durham
+54070,City of Eugene
+54078,City of Hayward
+57616,"City of Lake Forest, IL"
+50558,"City of London, ON"
+58530,"City of Northampton, MA"
+14344,"City of Park City, UT"
+49334,"City of Richmond, VA"
+58531,"City of Somerville, MA"
+58357,City of West Hollywood
+50579,City of Winnipeg
+52893,City of Yonkers
+55616,Los Altos Hills
+58621,Town of Blacksburg
+14874,"City of Portland, OR"
+43937,Wellington City Council
+31113,City of Yokohama
+44185,Suwon City
+59595,"City of Brisbane, CA"
+59612,"City of Hermosa Beach, CA"
+59535,"Town of Vail, CO"
+54354,City Government of Makati
+31186,Changwon City
+31109,City of Melbourne
+31114,City of Sydney
+31187,Seoul Metropolitan Government
+35993,Singapore Government
+31111,Tokyo Metropolitan Government
+44191,Ansan City
+43932,Auckland Council
+43928,Canberra
+32480,City of Adelaide
+35902,City of Nagoya
+55179,City of Okayama
+43934,City of Perth
+44295,Gwangyang City
+51105,Hongcheon County
+54390,Hsinchu County Government
+31112,Kaohsiung City Government
+56276,New Taipei City Government
+57347,Pingtung County Government
+31446,Taipei City Government
+50716,Uljin County
+59996,Batangas City
+31170,Metropolitan Municipality of Lima
+50359,Gobierno Municipal de León de los Aldamas
+36489,Comune di Olbia
+50364,Municipalidad de La Paz
+35848,Municipality of Belo Horizonte
+50384,Prefeitura de Florianópolis
+31155,City of Buenos Aires
+42178,Distrito Metropolitano de Quito
+31176,Prefeitura do Rio de Janeiro
+60602,"Town of Ajax, ON"
+60603,"City of Prince George, BC"
+60656,"City of Piedmont, CA"
+60680,Ville de Salaberry-de-Valleyfield
+31174,Moscow Government
+59552,"City of Davis, CA"
+49386,City of Hiroshima
+50220,Métropole Nice Côte d'Azur
+44182,Incheon Metropolitan City
+31156,Municipality of Curitiba
+54329,Bogor City Government
+31180,Región Metropolitana de Santiago
+58310,City of Roanoke
+31166,Jakarta City Government
+35872,Municipality of Recife
+58628,"University City, MO"
+36154,Vilnius City Municipality
+36045,Santiago de Guayaquil
+54650,Prefeitura de Palmas
+31172,Mexico City
+31146,Addis Ababa City Administration
+31154,Bogotá Distrito Capital
+50369,Ayuntamiento de San Luis Potosí
+42123,City of Goiânia
+50383,Prefeitura de Sorocaba
+31169,Government of Hong Kong Special Administrative Region
+31159,Alcaldía Metropolitana de Caracas
+44132,Bornova Municipality
+35862,City of Detroit
+62864,"City of Lancaster, PA"
+54610,Estância Turística de Guaratinguetá
+36037,Santiago de Cali
+54085,City of Savannah
+58627,"City of Alton, IL"
+49338,City of Tucson
+54337,Greater Amman Municipality
+50672,Santarém
+58610,Municipality of Hjørring
+42120,City of Salvador
+35880,Municipality of Porto Alegre
+31167,City of Lagos
+49363,Nelson Mandela Bay Municipality
+59537,"City of Denton, TX"
+54386,Tainan City Government
+54046,City of Brownsville
+31164,Ho Chi Minh City
+35274,"City of Portland, ME"
+53254,Hobart City Council
+54389,Taichung City Government
+69967,Alcaldia de Tulua
+31163,Istanbul Metropolitan Municipality
+58590,"City of Easton, PA"
+53959,"City of Fayetteville, AR"
+60318,Prefeitura de Porto Velho
+58543,Byron Shire Council
+50572,"City of Saint Paul, MN"
+54409,City of Espoo
+54388,Iskandar Regional Development Authority
+35885,Tel Aviv-Yafo Municipality
+50382,Municipio de Mérida
+49327,City of Providence
+63616,Abasan Al-Kabira Municipality
+58461,Stara Zagora
+60392,Municipalidad de San Isidro (Lima)
+36036,City of Ibadan
+59633,"City of Santa Cruz, CA"
+50559,"City of St Catharines, ON"
+59160,Ville de Nyon
+59631,"City of San Leandro, CA"
+53921,"City of Tempe, AZ"
+59545,"City of Charlottesville, VA"
+60419,Municipalidad de Rio Grande
+43926,City of Mannheim
+54461,Gemeente Groningen
+54356,City of Parañaque
+50671,Fafe
+54057,City of Lancaster
+55415,"City of Columbia, SC"
+50392,Prefeitura de Vitória
+54623,Prefeitura de Betim
+59158,Moroni City
+54100,"City of Columbia, MO"
+50650,City of Gibraltar
+58395,Bærum Kommune
+60374,Alcaldía de Ibagué
+63999,"City of Miami Beach, FL"
+50371,Municipalidad de  Córdoba
+60273,Prefeitura de Extrema
+54637,Alcaldía de Cuenca
+60387,Alcaldíade Sincelejo
+31150,Bangkok Metropolitan Administration
+31157,City of Delhi
+54364,City of Kuala Lumpur
+73295,"City of La Crosse, WI"
+58569,City of Podgorica
+73302,"City of Port Allen, LA"
+58511,"City of Richmond, CA"
+58871,"City of Salem, MA"
+51075,City of Shenzhen
+59563,"City of Takoma Park, MD"
+50357,Ciudad de Mendoza
+36484,Comune di Monza
+36252,Comune di Oristano
+36492,Comune di Parma
+60394,Gobierno Autónomo Municipal de Tarija
+70247,Hsinchu City Government
+63542,Lejre Kommune
+43975,Municipalidad de Magdalena del Mar
+59167,Municipalidad de Providencia
+60416,Municipalidad de San Isidro (Argentina)
+60002,Municipality of Cainta
+54347,Pasig City Government
+50386,Prefeitura de Cuiabá
+58868,Regional Municipality of Durham
+36426,Riga City
+58781,Ringkøbing-Skjern Kommune
+60126,Tartu City Council
+36002,Ville de Kinshasa
+69835,Municipalidad de Yala
+840926,Prefeitura de Serra Talhada
+863190,Renca
+930366,Municipalidad Distrital de Yura
+60236,Trelleborg Municipality
+863463,Valle de Santiago
+54125,"City of Boise, ID"
+850566,Prefeitura de Piraquara
+54365,Kota Kinabalu City Hall
+930245,Prefeitura de Sirinhaém
+60410,Municipalidad de Peñalolén
+54607,Mar del Plata
+60906,Municipalidad de Vitacura
+50397,Presidencia Municipal de Saltillo
+895694,Municipalidad de Quilicura
+59987,Hutt City Council
+54396,Can Tho City
+73746,Probolinggo
+834374,Tagum City
+840122,Siliguri Municipal Corporation
+13506,Nottingham City Council
+54614,Prefeitura da Cidade de São José do Rio Preto
+852522,Cotswold District Council
+58668,"City of New Bedford, MA"
+35873,Medellín
+60011,City of San Jose del Monte
+50373,Municipalidad de Rosario
+54328,City of Niigata
+930073,Quang Binh Province
+2621,Cambridgeshire County Council
+69850,Municipalidad de Comas
+54611,Alcaldia de Manizales
+18078,Swale Borough Council
+859254,Uppvidinge Municipality
+848476,Municipalidad de Cañas
+13113,Newcastle City Council
+826396,Municipality of Sintra
+54027,"City of St. John's, NL"
+854055,Tultitlán
+831618,Yaoundé 4
+54348,The Local Government of Quezon City
+73723,"San Rafael, CA"
+60621,Lilongwe City Council
+11315,City of Manchester
+60599,"Town of Bridgewater, NS"
+845301,Montes de Oca
+14136,Oxford City Council
+58595,Municipalidad de Belén
+54613,Alcaldia de Valdivia
+54253,Wollongong City Council
+895157,Lancashire County Council (City)
+54439,City of Münster
+60105,Kirklees Council
+58597,Municipalidad de La Unión
+74670,Antalya Metropolitan Municipality
+859130,Handa City
+74325,Pontianak
+54620,Gobierno Municipal de la Ciudad de Paraná
+36004,City of Abidjan
+50678,Municipality of Évora
+50387,Prefeitura de Guarulhos
+15515,Reading Borough Council
+919095,City of London (City)
+841416,Municipalidad de Puerto Esperanza
+847232,Tres Arroyos
+862953,"District of North Vancouver, BC"
+44194,Jeonju City
+54096,"City of Saint John, NB"
+54289,Wuhan Municipal People's Government
+843399,Wandsworth Council
+44080,City of Kitakyushu
+839668,Municipio de Iztapa
+930252,Subang Jaya
+840153,Municipality of Santa Catarina
+848564,City of Zadar
+848122,Alajuela
+863205,Gorontalo Regency
+54706,Prefeitura Municipal de Boa Vista
+60069,Sheffield City Council
+866890,"City of Prairie Village, KS"
+862501,Concordia
+841003,Ayuntamiento de Apodaca
+827048,Zhenjiang Municipal People's Government
+866940,Fokoué
+834406,Municipality of San Pedro Tlaquepaque
+50396,Prefeitura Municipal de Santos
+10806,London Borough of Enfield
+42384,City of Gothenburg
+60407,Municipalidad de Colina
+930367,Municipio de Montecristi
+863201,Sanggau Regency
+54518,City of Helsingborg
+59532,"City of Hoboken, NJ"
+54124,"City of Fremont, CA"
+917874,Aberdeenshire Council
+54318,Government of Tangerang City
+54098,"City of Thunder Bay, ON"
+60185,City of Vantaa
+838939,Kocaeli Metropolitan Municipality
+59985,City of Puerto Princesa
+54327,Semarang City Government
+840514,Blitar City
+54360,Shah Alam City Council
+862814,"South-East Region of Ireland (Kilkenny, Carlow, Wexford, and Waterford Counties)"
+44210,Yeosu City
+845307,Zarcero
+848567,Mid-America Regional Council
+46470,Municipality of Vitoria-Gasteiz
+59166,Municipalidad de Independencia
+54263,Merri-bek City Council
+840269,"Town of Whitby, ON"
+73669,"San Luis Obispo, CA"
+59653,"City of Manhattan Beach, CA"
+49389,Kyoto City
+852443,"Ferndale, MI"
+68250,City of Canada Bay
+840075,Unley City Council
+74771,Kisii County
+43909,"City of Orlando, FL"
+900978,Manzanillo
+924776,Tambrauw Regency
+60168,Derry City & Strabane
+848259,Mongua
+839672,Municipalidad Distrital de La Molina
+849023,Uruapan
+841960,"City of Belfast, ME"
+826209,Aipromades Lago de Chapala
+35897,Municipality of Campinas
+834157,Hang Tuah Jaya Municipal Council
+834141,Huddinge Municipality
+54144,City of Yarra
+848981,City of Ormoc
+927260,"City of Grand Junction, CO"
+848474,Richmond Council
+50361,Ayuntamiento de Hermosillo
+60003,Baguio City
+68375,Prefeitura de Abaetetuba
+55379,Santa Fé Ciudad
+54114,"City of Asheville, NC"
+859253,Mora Municipality
+930371,Baños de Agua Santa
+37261,City of Pietermaritzburg
+59677,"City of Mountain View, CA"
+50370,Municipalidad de Tampico
+59572,"District of Saanich, BC"
+863407,"Town of Durham, NH"
+895653,North Minahasa
+35867,Region Metropolitana de Guadalajara
+73707,Totoras
+930254,Thua Thien Hue Province
+35907,Bengaluru
+834261,Municipality of Irapuato
+840131,Tiruchirappalli City Municipal Corporation
+54331,City of Sagamihara
+929628,Dharmasraya City
+73667,San Rafael de Heredia
+59696,"City of Longmont, CO"
+73759,Jambi City
+54361,Petaling Jaya City Council
+55161,City of Iida
+834126,Dobong-gu District of Seoul
+54330,City of Kawasaki
+834255,Municipality of Guaymallén
+54537,Sunderland City Council
+834161,Kinmen County Government
+826429,Municipality of Figueira da Foz
+849051,Udaipur Municipal Corporation
+866486,City of Trebinje
+862480,Ibarra
+826201,Ayuntamiento de Zapopan
+930332,"City of Orillia, ON"
+929501,Algarrobo
+54305,Rajkot Municipal Corporation
+845302,Paraíso
+74462,"Village of Oak Park, IL"
+59956,Banda Aceh City Government
+35893,City of Dar es Salaam
+73530,"Town of Lexington, MA"
+54084,"City of Guelph, ON"
+5871,Essex County Council
+54265,City of Newcastle
+827047,Fuzhou Municipal People's Government
+44180,Daegu Metropolitan City
+54341,Toyama City
+863202,Trenggalek Regency
+866903,Prefeitura de Itapipoca
+50235,City of Kraków
+50669,Municipality of Matosinhos
+54349,Balikpapan City Government
+73645,KwaDukuza
+54026,"City of Tacoma, WA"
+54513,Uppsala Municipality
+53829,"City of Kingston, ON"
+73810,"Miami-Dade, FL"
+54290,Qingdao Municipal Government
+74671,Kadıköy
+49367,Freetown City
+58613,City of York Council
+74488,"City of Beverly, MA"
+15014,City of Prague
+37241,"City of Berkeley, CA"
+54340,Adachi City
+848145,Ciudad Madero
+60625,Dire Dawa
+54530,City of Brighton & Hove
+930608,Municipalidad Distrital de Moche
+50358,Gobierno Municipal de Toluca de Lerdo
+832078,Municipality of Mafra
+74575,"Dane County, WI"
+929630,Pasaman Regency
+50203,Gaziantep Metropolitan Municipality
+73737,"City of Naga, Camarines Sur"
+859128,Makinohara City
+73802,Crespo
+54603,Alcaldia de Pasto
+44299,Dangjin City
+60142,City of Kisumu
+73892,Holbæk Municipality
+60078,City of Lappeenranta
+35864,Ekurhuleni Metropolitan Municipality
+60115,Wakefield Council
+847236,Ramona
+10595,Leeds City Council
+68337,Bekasi City Government
+859179,Nagasaki City
+834096,"City of Richmond, BC"
+840428,Hua-Hin Municipality
+862932,"Superior, CO"
+73728,"North Miami, FL"
+73637,Steve Tshwete
+60384,Alcaldía de Yopal
+36517,City of Treviso
+918147,Fanø Municipality
+831234,"City of Fredericton, NB"
+60281,Prefeitura de Caucaia
+73666,"Cuyahoga County, OH"
+832610,"Orange County, NC"
+31051,Coventry City Council
+54593,Buffalo City Metropolitan Municipality
+832300,North Tyneside Council
+44205,Gwangmyeong City
+60399,Municipalidad de Miraflores
+831620,Yaoundé 3
+930559,Suphanburi
+852466,South Gloucestershire Council
+61467,Dipolog City
+2185,Bristol City Council
+852445,"Gainesville, FL"
+930269,El Santuario
+862760,"City of Oxford, OH"
+42388,Intendencia de Montevideo
+894137,Cao Lanh
+60113,Dundee City Council
+31184,Prefeitura de São Paulo
+51374,Prefeitura de Rio Branco
+931095,Lake District National Park Authority
+60337,Prefeitura de Quissamã
+50394,Prefeitura Municipal de João Pessoa
+930072,Quang Tri Province
+840024,Perth and Kinross
+69849,Santa Cruz de Galápagos
+54105,"City of Duluth, MN"
+826208,Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC)
+36032,Ville de Dakar
+74414,"Boulder County, CO"
+31153,City of Berlin
+834144,Hue City
+74768,Siaya County
+840158,"City of San Fernando, La Union"
+839666,Municipio de Escuintla
+918355,Municipality of Koekelberg
+73252,Pemba Municipality
+929561,Kribi 1
+826108,Ayuntamiento de Concepción de Buenos Aires
+841980,Karsiyaka Municipality
+862705,Comodoro Rivadavia
+848137,Beteitiva
+54109,"City of Bloomington, IN"
+852480,"Howard County, MD"
+54647,Prefeitura de Jundiaí
+57877,Playa del Carmen
+60640,Mbabane City Council
+54268,Dunedin City Council
+44077,Kampala City
+54519,Lund Municipality
+895681,Majlis Bandaraya Iskandar Puteri
+863206,Langsa City
+863470,Nueva Loja
+50674,Municipality of Viseu
+60238,Söderhamn Municipality
+841269,Municipalidad de Montecarlo
+841491,Muar Municipal Council
+54034,"City of Grand Rapids, MI"
+867237,Færder Municipality
+73722,Mornington Peninsula Shire
+63562,"City of South Bend, IN"
+929500,MUNICIPALIDAD DE SURQUILLO
+43917,Capital Municipality of Sofia
+50545,"City of Henderson, NV"
+834284,Municipality of Salamanca
+74673,İzmir Metropolitan Municipality
+862419,Sumbawa Regency
+74463,"Village of Park Forest, IL"
+60125,Klaipėda City Municipality
+63608,City of Melville
+831431,Cornwall Council
+848565,Chicago Metropolitan Mayors Caucus
+826450,Durham County Council
+54419,City and Metropolitan Municipality of Strasbourg
+60140,City of Nakuru
+862852,City of Cannes
+826211,Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS)
+930374,Municipalidad San Pablo de Heredia
+54403,City of Tampere
+35856,Busan Metropolitan City
+930569,Ayuntamiento de San Cristóbal de las Casas
+895257,Prefeitura de Barcarena
+862482,San Pedro Garza García
+35913,City of Nairobi
+841955,Hammersmith and Fulham London Borough Council
+59657,"City of Beaverton, OR"
+49330,"Kansas City, MO"
+54030,"City of Little Rock, AR"
+54699,Prefeitura Municipal de Barueri
+841525,Blackburn with Darwen Borough Council
+834347,Seberang Perai Municipal Council
+35865,Municipality of Fortaleza
+866887,"City of Bexley, OH"
+826380,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA)
+919724,Gällivare Municipality
+841098,Municipalidad Distrital de Chimbote
+54509,Jönköping Municipality
+894047,General Ramirez
+866900,Delicias
+74375,Itabashi
+833284,West Midlands Combined Authority
+826425,Municipality of Caldas da Rainha
+852471,Solihull Council
+36223,Antananarivo
+49347,"City of Omaha, NE"
+49346,"City of Allentown, PA"
+54277,New Plymouth District Council
+919725,Åtvidaberg Municipality
+841490,Penampang District Council
+31158,Hanoi City
+50554,"City of Mesa, AZ"
+54478,Municipality of Nijmegen
+859097,Yamato City
+63941,"Broward County, FL"
+73726,Itagüí
+54617,Alcaldia de Pereira
+54352,City of Muntinlupa
+863412,"City of Tumwater, WA"
+831952,Municipalidad de Portoviejo
+55181,City of Matsuyama
+895654,Segamat
+69968,Alcaldia de Rionegro
+71557,Quelimane Municipal Council
+50377,Municipio de Querétaro
+60226,Luleå Municipality
+840521,City of Denizli
+60381,Alcaldía Distrital de Santa Marta
+52896,"City of Fort Lauderdale, FL"
+4570,Derbyshire County Council
+73752,Bontang City
+930413,Municipio de Santa Elena
+839669,Municipio de San Jose
+831674,Municipality of Amarante
+842012,"City of Burlington, ON"
+59298,Yaoundé 6
+73533,Intendencia de Canelones
+74594,"City of Boynton Beach, FL"
+931087,Municipalidad Provincial de Huamanga
+929965,Çorlu Belediyesi
+74418,"Town of Breckenridge, CO"
+863405,"City of Boca Raton, FL"
+850585,Municipality of Ambato
+36218,Fukuoka City
+849052,Empedrado
+54335,Government of the City of Yogyakarta
+60393,Municipalidad de Santiago
+854042,Metropolitan Municipality of Milan
+840039,Arequito
+60102,Blackpool Council
+54338,City of Saitama
+50368,Municipalidad de Provincial de Arequipa
+894138,Nam Dinh
+862499,Marcos Juárez
+60007,City of Santa Rosa
+74481,"Town of Acton, MA"
+60633,La mairie de Bujumbura
+60187,City of Solna
+831999,Concejo Municipal de Distrito de Monte Verde
+74540,"Village of Hastings-on-Hudson, NY"
+834082,City of Chefchaouen
+54308,Coimbatore City Municipal Corporation
+59588,"Town of Chapel Hill, NC"
+73750,Tarakan City
+930134,Ayuntamiento de Almoloya de Juárez
+43921,City of Zagreb
+859104,Myoko City
+50380,Municipio de Bucaramanga
+49172,"City of St. Petersburg, FL"
+73757,Sukabumi City
+834382,City of Trollhättan
+35854,City of Brussels
+862949,Latacunga
+31054,Belfast City Council
+859160,Setouchi City
+826174,Ayuntamiento de Tepatitlán de Morelos
+36410,"City of Memphis, TN"
+54345,City Government of Davao
+73763,San Carlos City
+842044,"Ville de Longueuil, QC"
+852468,Leicestershire County Council
+44187,Goyang City
+845304,Santa Ana (Costa Rica)
+62407,Blacktown City Council
+862946,Manta
+848125,Oreamuno
+826427,Municipality of Valongo
+826217,Prefeitura de Francisco Morato
+50562,"City of Chula Vista, CA"
+50374,Alcaldia Distrital de Cartagena de Indias
+848978,Floresta
+60400,Municipalidad de Temuco
+848131,Gámeza
+863224,East Central Florida Regional Planning Council
+62171,Metropolitan Municipality of Rouen
+52894,"City of Winston-Salem, NC"
+60905,Municipalidad de Maipú
+862520,Surrey County Council
+929742,Prefeitura de Tapauá
+930093,Santander de Quilichao
+929627,Limapuluh Kota Regency
+840018,Municipalidad Distrital de Ate
+69824,Västervik Municipality
+60216,Växjö Municipality
+49339,"City and County of Honolulu, HI"
+55372,Prefeitura Municipal de Canoas
+73742,City of Catbalogan
+44181,Gwangju Metropolitan City
+832002,Municipalidad de Quepos
+74672,Bursa Nilüfer Municipality
+848950,Ushuaia
+863676,Lujan de Cuyo
+894051,Cipolletti
+839665,Ayuntamiento de Celaya
+860640,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN)
+54488,Trondheim Municipality
+54559,Ugu District Municipality
+863533,San Antonio
+848970,Villa Carlos Paz
+73676,Umhlathuze
+59958,Tweed Shire Council
+43908,"City of Milwaukee, WI"
+840076,Prefeitura de Apuí
+866598,"Chemung County, NY"
+60108,Norwich City Council
+863000,Lo Barnechea
+73734,Envigado
+54116,"City of Dubuque, IA"
+834120,City of Tanjungpinang
+840195,Laholm Municipality
+63762,Metropolitan Washington Council of Governments
+54619,Municipalidad  Provincial de Piura
+60349,Prefeitura de São Leopoldo
+861779,Järfälla Municipality
+831615,Pikine
+74568,"City of Shoreline, WA"
+13490,Northumberland County Council
+74539,"City of Oberlin, OH"
+847922,Junta Municipal de Medio Ambiente Lagunas (JIMAL)
+849041,Gualeguaychú
+49326,"Ville de Quebec, QC"
+831926,Ramallah
+73413,Commune de Cocody
+44184,Ulsan Metropolitan City
+73755,Legazpi City
+43938,"The Executive Council, Govt of Dubai"
+859167,Imabari City
+36039,Accra Metropolitan Assembly
+917936,Somerset Council
+826207,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV)
+60391,Municipalidad de San Borja
+60104,Cambridge City Council
+839980,Municipalidad de Avellaneda
+60231,Municipality of Elva
+68290,Wyndham City Council
+862572,"Regional District of Nanaimo, BC"
+831616,Commune de Tsévié
+55371,Municipalidad de Vicente López
+854050,"City of Nanaimo, BC"
+59678,"City of Evanston, IL"
+60018,City of Zamboanga
+43935,Maputo Metropolitan Area
+826405,Municipality of Maia
+59538,"City of Mississauga, ON"
+834083,"City of Eau Claire, WI"
+73701,San Carlos Sud
+848977,Busbanza
+53899,"City of Worcester, MA"
+930257,Municipalidad de Puyo
+930007,La Esperanza
+859096,Kamakura City
+863180,General Lavalle
+59708,"City of Bethlehem, PA"
+834313,Municipality of Tópaga
+73687,Sabaneta
+834373,"Town of York, ME"
+839673,Municipalidad Distrital de Jesús María
+31056,Edinburgh City Council
+54339,Denpasar City Government
+69848,Municipio de Loja
+35905,Corporation of Chennai
+54370,Municipal Council of Penang
+46263,Amdavad Municipal Corporation (Ahmedabad)
+54510,Umeå Municipality
+68267,Sutherland Shire Council
+54658,Prefeitura do Município de Piracicaba
+73692,Mount Barker District Council
+60638,Walvis Bay Municipality
+73793,La Estrella
+74531,"Santa Fe County, NM"
+924935,Municipalidad Distrital de Masisea
+36152,City of Tallinn
+53931,"City of Alexandria, VA"
+54060,"City of Greater Sudbury / Grand Sudbury, ON"
+73671,Godoy Cruz
+54306,Medan City Government
+31178,City of Mumbai
+863001,Puerto Varas
+924874,Municipio de San Luis
+1093,"City of Atlanta, GA"
+1184,"City of Austin, TX"
+1499,Ajuntament de Barcelona
+3203,"City of Chicago, IL"
+3417,"New York City, NY"
+10495,"City of Las Vegas, NV"
+10894,"City of Los Angeles, CA"
+13067,"City of New Orleans, LA"
+14088,Oslo Municipality
+16581,"City of Seattle, WA"
+19233,Municipality of Torres Vedras
+20113,"City of Vancouver, BC"
+31009,Copenhagen Municipality
+31090,"District of Columbia, DC"
+31108,"City of Houston, TX"
+31110,Roma Capitale
+31117,"City of Toronto, ON"
+31148,Municipality of Amsterdam
+31149,Municipality of Athens
+31151,City of Basel
+31165,City of Heidelberg
+31171,Ayuntamiento de Madrid
+31173,Comune di Milano
+31177,"Salt Lake City, UT"
+31179,Municipality of Rotterdam
+31181,"City of Philadelphia, PA"
+31182,"City of San Francisco, CA"
+32550,"City of Denver, CO"
+35268,"City of Boston, MA"
+35449,City of Zürich
+35475,"City of Calgary, AB"
+35853,"City of Baltimore, MD"
+35857,"City of Cincinnati, OH"
+35859,"City of Cleveland, OH"
+35860,"City of Dallas, TX"
+35863,eThekwini Municipality
+35870,"City of Miami, FL"
+35874,"City of Phoenix, AZ"
+35877,"City of Pittsburgh, PA"
+35878,"City of Sacramento, CA"
+35883,"City of San José, CA"
+35884,"City of San Diego, CA"
+35886,Comune di Torino
+35894,"Ville de Montreal, QC"
+35898,Greater Manchester Combined Authority
+35995,Distrito Federal (Brasília)
+36254,Comune di Venezia
+36262,Comune di Genova
+36285,Comune di Firenze
+36477,Comune di Lucca
+36494,Comune di Padova
+43905,"City of San Antonio, TX"
+43907,"City of Indianapolis, IN"
+43910,"City of Columbus, OH"
+43911,"City of Ottawa, ON"
+43912,"City of Edmonton, AB"
+43914,"City of Charlotte, NC"
+43920,City Municipality of Ljubljana
+43930,Municipality of The Hague
+43940,City of Malmö
+46473,Municipality of Saragossa (Spain)
+49335,"Metropolitan Government of Nashville and Davidson County, TN"
+49342,"City of Rochester, NY"
+49360,Pretoria - Tshwane
+50375,Ayuntamiento de  Chihuahua
+50541,"City of Greensboro, NC"
+50543,"Halifax Regional Municipality, NS"
+50551,"City of Long Beach, CA"
+50555,"City of Hamilton, ON"
+50560,"City of Oakland, CA"
+50568,"City of Saskatoon, SK"
+50578,"City of Windsor, ON"
+50673,Municipality of Faro
+50680,Municipality of Cascais
+50792,City-State of Monaco
+52897,City of Aspen and Pitkin County
+54048,"City of Knoxville, TN"
+54066,"City of Fort Collins, CO"
+54075,"City of Lakewood, CO"
+54088,"City of Peterborough, ON"
+54092,"City of Ann Arbor, MI"
+54102,"City of Albany, NY"
+54104,"City of Boulder, CO"
+54110,"City of Santa Monica, CA"
+54111,"City of Iowa City, IA"
+54113,"City of Flagstaff, AZ"
+54119,"City of Palo Alto, CA"
+54128,"City of Reno, NV"
+54395,Taoyuan City Government
+54408,Aarhus Municipality
+54498,Ayuntamiento de Murcia
+54521,City of Bournemouth
+55324,Municipality of Guimarães
+55325,Municipality of Águeda
+55334,Municipality of Braga
+55799,"City of Arlington, VA"
+55800,"City of Cambridge, MA"
+55801,"City of West Palm Beach, FL"
+57509,Prefeitura de Niterói
+58424,Gdańsk
+58485,"Abington Township, PA"
+58489,Høje-Taastrup Municipality
+58513,"City of Medford, MA"
+58671,Helsingør Municipality
+59163,Municipality of Tirana
+59180,Middelfart Municipality
+59669,"City of North Vancouver, BC"
+60229,Municipality of Arendal
+60433,Hvidovre Municipality
+60577,Frederikshavn Municipality
+60588,City of Alba-Iulia
+61753,Yilan County Government
+63543,Fredensborg Municipality
+64014,"City of Cupertino, CA"
