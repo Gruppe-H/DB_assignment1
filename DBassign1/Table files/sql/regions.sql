@@ -1,0 +1,1 @@
+INSERT INTO Regions (region_name) VALUES ('South and West Asia'),('South Asia and Oceania'),('North America'),('Latin America'),('Europe'),('East Asia'),('Africa');
