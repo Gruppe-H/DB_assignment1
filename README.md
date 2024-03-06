@@ -50,3 +50,12 @@ We have to create the database based on our diagram
 
 ### 10. Formulate conclusions and recommendations.
 
+## Backend code
+Spring framework backend 
+
+* REST API
+* Endpoints
+* Postman (frontend)
+
+Github link: https://github.com/Gruppe-H/SPA1 
+
