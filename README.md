@@ -26,8 +26,8 @@ We have to create the database based on our diagram
 ### 5. Formulate ten relevant questions for extracting information from the database, design and develop database functionality for implementing the information extraction (for the relevance consult the instructor).
 
 1. Is there a correlation between population and total emissions?
-2. From 2016 to 2023, has there been a reduction in emissions?
-3. From 2016 to 2023, what change has there been in target reductions?
+2. From 2016 to 2017, has there been a reduction in base_emissions?
+3. From 2016 to 2023, what change has there been in target_emission?
 4. Is there a difference in the target reduction emissions based on whether or not the city is a member of C40 or GCoM?
 5. Is there a visible difference between the regions or CDP regions when it comes to reduction targets?
 6. Which organization plans to reduce the most in %?
