@@ -14,27 +14,41 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'In 2014 ambitious target was set by the city council, which aims to make Turku carbon-neutral by 2040.', '2016', '26', '14');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '4%  reduction obetained at  the end of 2010', '2016', '70', '15');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'In addition to the emission-reducing activities mentioned below, the emission-reducing activities on local government level are part of the total reduction aim of 20%.', '2016', '856', '16');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The emission reduction is calculated with respect to the reference scenario (BAU) in 2020.
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The emission reduction is calculated with respect to the reference scenario (BAU) in 2020.
+
 Were considered only CO2 emissions related to the areas of competence of the Municipality of Piacenza.', '2016', '103', '17');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'This target is related to CO2 emission and was set in the Covenant of Mayors. The target is applied to the whole CO2 emissions including together Local Government Operations and Community.', '2016', '89', '18');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Roadmap to a Fossil free-fuel Stockholm 2050 (being updated to 2040) according to Stockhom City''s budget.', '2016', '104', '19');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The Municipality is a member of the Covenant of Mayors, an european compromise to reduce the CO2 levels in 20%.', '2016', '269', '20');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'See Climate Change and Low Emission Strategies’
-Whole Place Implementation Plan for Greater Manchester
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'See Climate Change and Low Emission Strategies’
+
+Whole Place Implementation Plan for Greater Manchester
+
 (2016-2020) (attached for detailed actions.', '2016', '2', '21');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'until 2020 3 % reduction per year
-2035 Fossil free electricity and heating supply
-2050 Fossil free electricity and heating supply and the transport sector
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'until 2020 3 % reduction per year
+
+2035 Fossil free electricity and heating supply
+
+2050 Fossil free electricity and heating supply and the transport sector
+
 2050 98 % reduction (baseline 2012)', '2016', '55', '22');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'GHG sources to
-which the target applies:
-CO2-City-wide
-
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'GHG sources to
+
+which the target applies:
+
+CO2-City-wide
+
+
+
 Solutions of the municipal council', '2016', '69', '23');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The baseline emission and the target emission are measured in tonnes CO2e per person per year.
-
-Target for 2050: 1.0 tonnes CO2e per person (18% of 2005)
-Target for 2035: 2.5 tonnes CO2e per person (45% of 2005)
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The baseline emission and the target emission are measured in tonnes CO2e per person per year.
+
+
+
+Target for 2050: 1.0 tonnes CO2e per person (18% of 2005)
+
+Target for 2035: 2.5 tonnes CO2e per person (45% of 2005)
+
 Target for 2020: 4.0 tonnes CO2e per person (72% of 2005)', '2016', '74', '24');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'With a new City government in office from september 2015, the GHG-target was expedited from 2050 to 2030.', '2016', '58', '25');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Data based on plan mentioned in 7.1. a - row 3', '2016', '272', '26');
@@ -53,36 +67,64 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Stockholm has a goal that by 2020 our GHG per capita should be down to 2,3 ton 2020 per person.', '2016', '104', '39');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '2025 target date', '2016', '4', '40');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The sectors included in the emissions reduction target include buildings, transport and other sectors but not waste.', '2016', '16', '41');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "free-01 - extimated CO2 reduction by 2020:    1072t"
-SEAP action "free-02 - extimated CO2 reduction by 2020:      292t"
-SEAP action "free-06 - extimated CO2 reduction by 2020:      997t"
-SEAP action "free-07 - extimated CO2 reduction by 2020: 22946t"
-SEAP action "free-08 - extimated CO2 reduction by 2020:    4347t"
-SEAP action "free-09 - extimated CO2 reduction by 2020:         97t"
-SEAP action "free-10 - extimated CO2 reduction by 2020:       772t"
-SEAP action "free-11 - extimated CO2 reduction by 2020:       132t"
-SEAP action "free-12 -extimated CO2 reduction by 2020:        166t"
-SEAP action "free-13 - extimated CO2 reduction by 2020:       477t"
-SEAP action "free-14 [1/2]- extimated CO2 reduction by 2020:  13702t"
-SEAP action "free-15 - extimated CO2 reduction by 2020:     3941t"
-SEAP action "free-16 - extimated CO2 reduction by 2020:   19020t"
-SEAP action "free-17 - extimated CO2 reduction by 2020:        168t"
-SEAP action "pure-03 - extimated CO2 reduction by 2020:  38238t"
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "free-01 - extimated CO2 reduction by 2020:    1072t"
+
+SEAP action "free-02 - extimated CO2 reduction by 2020:      292t"
+
+SEAP action "free-06 - extimated CO2 reduction by 2020:      997t"
+
+SEAP action "free-07 - extimated CO2 reduction by 2020: 22946t"
+
+SEAP action "free-08 - extimated CO2 reduction by 2020:    4347t"
+
+SEAP action "free-09 - extimated CO2 reduction by 2020:         97t"
+
+SEAP action "free-10 - extimated CO2 reduction by 2020:       772t"
+
+SEAP action "free-11 - extimated CO2 reduction by 2020:       132t"
+
+SEAP action "free-12 -extimated CO2 reduction by 2020:        166t"
+
+SEAP action "free-13 - extimated CO2 reduction by 2020:       477t"
+
+SEAP action "free-14 [1/2]- extimated CO2 reduction by 2020:  13702t"
+
+SEAP action "free-15 - extimated CO2 reduction by 2020:     3941t"
+
+SEAP action "free-16 - extimated CO2 reduction by 2020:   19020t"
+
+SEAP action "free-17 - extimated CO2 reduction by 2020:        168t"
+
+SEAP action "pure-03 - extimated CO2 reduction by 2020:  38238t"
+
 total extimated CO2 reduction by 2020: 106367t"', '2016', '59', '42');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "free-14 [1/2] - extimated CO2 reduction by 2020: 13704t"
-SEAP action "pure-02 - extimated CO2 reduction by 2020:        55314t"
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "free-14 [1/2] - extimated CO2 reduction by 2020: 13704t"
+
+SEAP action "pure-02 - extimated CO2 reduction by 2020:        55314t"
+
 total extimated CO2 reduction by 2020: 69018t"', '2016', '59', '43');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "move-01 - extimated CO2 reduction by 2020: 17022t"
-SEAP action "move-02 - extimated CO2 reduction by 2020:   7081t"
-SEAP action "move-03 - extimated CO2 reduction by 2020:   3559t"
-SEAP action "move-04 - extimated CO2 reduction by 2020:        62t"
-SEAP action "move-05 - extimated CO2 reduction by 2020:   3418t"
-SEAP action "move-06 - extimated CO2 reduction by 2020: 18844t"
-SEAP action "move-07 - extimated CO2 reduction by 2020:   2431t"
-SEAP action "move-08 - extimated CO2 reduction by 2020: 96412t"
-SEAP action "move-09 - extimated CO2 reduction by 2020:     600t"
-SEAP action "move-10 - extimated CO2 reduction by 2020:       37t"
-SEAP action "move-14 - extimated CO2 reduction by 2020:       68t"
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'SEAP action "move-01 - extimated CO2 reduction by 2020: 17022t"
+
+SEAP action "move-02 - extimated CO2 reduction by 2020:   7081t"
+
+SEAP action "move-03 - extimated CO2 reduction by 2020:   3559t"
+
+SEAP action "move-04 - extimated CO2 reduction by 2020:        62t"
+
+SEAP action "move-05 - extimated CO2 reduction by 2020:   3418t"
+
+SEAP action "move-06 - extimated CO2 reduction by 2020: 18844t"
+
+SEAP action "move-07 - extimated CO2 reduction by 2020:   2431t"
+
+SEAP action "move-08 - extimated CO2 reduction by 2020: 96412t"
+
+SEAP action "move-09 - extimated CO2 reduction by 2020:     600t"
+
+SEAP action "move-10 - extimated CO2 reduction by 2020:       37t"
+
+SEAP action "move-14 - extimated CO2 reduction by 2020:       68t"
+
 total extimated CO2 reduction by 2020: 149534t"', '2016', '59', '44');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The expected reduction for Tertiary+Residential+Private and Commercial transport is: 324.919t', '2016', '59', '45');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Interim targets are also in place for 2025', '2016', '52', '46');
@@ -91,37 +133,64 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Benchmarking and retrofits for buildings larger than 25,000 soft', '2016', '76', '49');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Sharing mobility strategies, TOD, and parking strategies', '2016', '76', '50');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Buckley Air Force Base not included. Methodology developed by University of Colorado Denver', '2016', '275', '51');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Key findings by sector provide guidance for where strategies can perhaps slow future emissions growth.
-• GHG emissions from the energy sector are anticipated
-to increase slightly from 79.5 percent (2010) to 79.9
-percent (2020).
-• The transportation-related emissions are anticipated
-to decrease from 15.6 percent (2010) to 15.2 percent
-(2020).
-• The waste-related emissions are anticipated to remain
-unchanged at 2.8 percent.
-• Wastewater treatment GHG emissions are expected to
-remain unchanged at 1.5 percent.
-• GHG emissions from the water sector are anticipated
-to remain unchanged at 0.7 percent.
-All GHG emissions have been calculated and presented in
-metric tons of carbon dioxide equivalent emissions per year
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Key findings by sector provide guidance for where strategies can perhaps slow future emissions growth.
+
+• GHG emissions from the energy sector are anticipated
+
+to increase slightly from 79.5 percent (2010) to 79.9
+
+percent (2020).
+
+• The transportation-related emissions are anticipated
+
+to decrease from 15.6 percent (2010) to 15.2 percent
+
+(2020).
+
+• The waste-related emissions are anticipated to remain
+
+unchanged at 2.8 percent.
+
+• Wastewater treatment GHG emissions are expected to
+
+remain unchanged at 1.5 percent.
+
+• GHG emissions from the water sector are anticipated
+
+to remain unchanged at 0.7 percent.
+
+All GHG emissions have been calculated and presented in
+
+metric tons of carbon dioxide equivalent emissions per year
+
 (MT CO2e/yr).', '2016', '257', '52');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Interim targets under development.', '2016', '109', '53');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Targets achieved in 2011.', '2016', '117', '54');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Targets set in 2015 to follow Corporate targets and community request under Community Climate Change Action Plan 2015', '2016', '117', '55');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Reduction Goals
-
-Subsequent to the completion of the 2007 GHG emissions inventory, the City established the following emissions reduction targets: 
-
-Short-term: 
-Reduction of 20% below 2007 levels by 2020 
-*Equals 1.5% annual reduction until 2020 
-
-Long-term: 
-Reduction of 80% below 2007 levels by 2050 
-*Equals 2% annual reduction between 2020 and 2050 
-
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Reduction Goals
+
+
+
+Subsequent to the completion of the 2007 GHG emissions inventory, the City established the following emissions reduction targets: 
+
+
+
+Short-term: 
+
+Reduction of 20% below 2007 levels by 2020 
+
+*Equals 1.5% annual reduction until 2020 
+
+
+
+Long-term: 
+
+Reduction of 80% below 2007 levels by 2050 
+
+*Equals 2% annual reduction between 2020 and 2050 
+
+
+
 To achieve its 2020 goal, the City would have to reduce the emissions generated by its municipal operations by 4,657 tons of CO2 equivalent, while the community-wide emissions reduction would have to approach 86,485 tons of CO2 equivalent. These are not insignificant numbers, but if the City and community come together in working towards those same goals, we can surely achieve them. Exploration of new technologies, new financial incentives and/or financing schemes, as well as a general willingness and commitment to the implementation of this plan will bring success.', '2016', '79', '56');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Target was set as part of imagineCALGARY (a community-wide engagement in 2006 to set the 100-year sustainability vision for Calgary).', '2016', '108', '57');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'We have a goal to be carbon neutral by 2050, and are currently working on our baseline inventory through the GPC.', '2016', '857', '58');
@@ -138,7 +207,8 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Note: For question 7.3, The City of Knoxville has not estimated anticipated reductions or measure reductions based on each emissions reduction activity.  However, the cumulative effect of past emissions reductions activities reduced residential energy consumption by 2%, commercial energy consumption by 13%, and community greenhouse gas emissions by 7.75% between 2005 and 2012.', '2016', '37', '69');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'After reaching our target, our current goal is to decrease emissions 2% annually.', '2016', '148', '70');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'World Energy Cities Calgary CLimate Accord', '2016', '860', '71');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'NOTE: London has committed to using targets consistent with the Province of Ontario''s targets. In spring 2015, Ontario
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'NOTE: London has committed to using targets consistent with the Province of Ontario''s targets. In spring 2015, Ontario
+
 announced this new mid-term reduction goal for a 37% reduction by 2030.', '2016', '5', '72');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Primarily using fossil fuels, not GHG, as our measurement tool because we have more (albeit still very limited) data', '2016', '277', '73');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '2007 goals exceeded. New goals being set this year. The City will comply with all State requirements and targets.', '2016', '73', '74');
@@ -154,21 +224,29 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Mayor Kenney committed to an 80 by 50 goal when taking office in 2016. The Office of Sustainability will baseline and set interim goals as part of the Greenworks plan update later in 2016.', '2016', '42', '84');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Multnomah County', '2016', '138', '85');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'The City of San Francisco has completed a third party emissions verification during January 2015.  The City has met it''s year 2012 emission reduction target by reducing it''s community-wide emissions approximately 23.3% below 1990 levels.', '2016', '114', '86');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Our long-term goals are:
-58% reduction by 2030
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Our long-term goals are:
+
+58% reduction by 2030
+
 Zero net emissions by 2050.', '2016', '62', '87');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '6% by 2012 and 30% by 2020 below 1990 levels for the urban area; we also baselined 2004 due to inherent inadequacy of some of the 1990 data.', '2016', '17', '88');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'See the Greenest City Action Plan for details. Baseline was calculated in 2014 due to change in GWP of CH4 per IPCC AR4 (2007).', '2016', '78', '89');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'See the Greenest City Action Plan for details.', '2016', '78', '90');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '2032', '2016', '23', '91');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '2050', '2016', '23', '92');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'NEW YORK—Mayor de Blasio announced today that New York City is committing to reducing its greenhouse gas emissions by 80 percent over 2005 levels by 2050, starting with One City, Built to Last: Transforming New York City’s Buildings for a Low-Carbon Future – a sweeping plan to retrofit public and private buildings to dramatically reduce the city’s contributions to climate change, while spurring major cost savings and creating thousands of new jobs for New Yorkers who most need them. This makes New York the largest city to commit to the 80 percent reduction by 2050, and charts a long-term path for investment in renewable sources of energy and a total transition from fossil fuels.
-
-Nearly three quarters of New York City’s greenhouse gas emissions come from energy used to heat, cool, and power buildings, making building retrofits a central component of any plan to dramatically reduce emissions.
-
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'NEW YORK—Mayor de Blasio announced today that New York City is committing to reducing its greenhouse gas emissions by 80 percent over 2005 levels by 2050, starting with One City, Built to Last: Transforming New York City’s Buildings for a Low-Carbon Future – a sweeping plan to retrofit public and private buildings to dramatically reduce the city’s contributions to climate change, while spurring major cost savings and creating thousands of new jobs for New Yorkers who most need them. This makes New York the largest city to commit to the 80 percent reduction by 2050, and charts a long-term path for investment in renewable sources of energy and a total transition from fossil fuels.
+
+
+
+Nearly three quarters of New York City’s greenhouse gas emissions come from energy used to heat, cool, and power buildings, making building retrofits a central component of any plan to dramatically reduce emissions.
+
+
+
 The City is poised to make direct investments to increase the efficiency of its public buildings, including schools and public housing, reducing the government’s contribution to climate change and generating operational savings for New York City taxpayers. Every single city-owned building with any significant energy use – approximately 3,000 buildings – will be retrofitted within the next ten years, by 2025, with interim goals along the way.', '2016', '15', '93');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Global climate change is the challenge of our generation. The stakes are high—for New Yorkers and for the world. In the coming years, New York City will face rising sea levels, increased temperatures and heat waves, and an increasing frequency of the most intense storms. These risks are not remote nor distant. They are here today. The damage caused by Hurricane Sandy in 2012 provided vivid evidence of these risks. Almost two years later, we are still recovering. Globally, climate change is having a devastating impact on people’s lives as rising sea levels flood coastlines, droughts disrupt livelihoods, and storms, hurricanes, and other extreme weather events threaten security and economic development.
-
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Global climate change is the challenge of our generation. The stakes are high—for New Yorkers and for the world. In the coming years, New York City will face rising sea levels, increased temperatures and heat waves, and an increasing frequency of the most intense storms. These risks are not remote nor distant. They are here today. The damage caused by Hurricane Sandy in 2012 provided vivid evidence of these risks. Almost two years later, we are still recovering. Globally, climate change is having a devastating impact on people’s lives as rising sea levels flood coastlines, droughts disrupt livelihoods, and storms, hurricanes, and other extreme weather events threaten security and economic development.
+
+
+
 For this reason, New York City is committed to reducing its greenhouse gas (GHG) emissions by 80 percent by 2050—the level the United Nations projects is needed to avoid the most dangerous impacts of climate change—and will chart a long-term course for a total transition away from fossil fuels to renewable sources of energy. We have developed an action plan for our buildings sector to reach a 35% energy reduction by 2025.', '2016', '15', '94');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Includes: solid waste, public transportation; private transportation; industrial buildings; residential buildings', '2016', '60', '95');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.', '2016', '34', '96');
@@ -176,15 +254,23 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'We have a Zero Net Emissions by 2020 Strategy for the municipality.', '2016', '11', '98');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Baseline emissions were calculated based on GPC BASIC methodology', '2016', '112', '99');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'One Less Nuclear Power Plant', '2016', '63', '100');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '7 to 11% reduction (unconditional) from 2020 Business-as-usual (BAU) emissions
-
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '7 to 11% reduction (unconditional) from 2020 Business-as-usual (BAU) emissions
+
+
+
 16% reduction (conditional of global deal) from 2020 Business-as-usual (BAU) emissions', '2016', '235', '101');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'TMG also set energy efficiency targets
-
-
-industrial and Commercial sector 30%
-Residential sector 30%
-Transportation 60%
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'TMG also set energy efficiency targets
+
+
+
+
+
+industrial and Commercial sector 30%
+
+Residential sector 30%
+
+Transportation 60%
+
 Total 38%', '2016', '94', '102');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'do not wish to disclose baseline emissions', '2016', '281', '103');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Baseline emissions need to be updated.', '2016', '116', '104');
@@ -204,8 +290,10 @@ INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Sistema energético des-fosilizado y  generación y consumo de  energía en el Municipio de La Paz controlado; Uso de energías alternativas incrementado, matriz de generación diversificada y consumo de combustibles fósiles reducido, en Bolivia y Eficiencia energética en el sector industrial a través de Programa energías renovables y eco-eficientes, Programa energías renovables y eco eficientes y Programa de Electrificación Rural con Energía Renovable', '2016', '33', '118');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'All this items are in discussion inside the Plan For GHG Reduction - PREGEE but our target date will be 2030. The plan will be released in 2013, July, and will anticipate the reduction in the emissions growth curve.', '2016', '30', '119');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'low carbon agriculture, implementation of green infrastructure, reduction in energy, consumption, sanitation, reducing fuel consumption', '2016', '41', '120');
-INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '-Baseline scenario goal: 2008 is the start year of the baseline scenario used as the starting point for the BAU analysis. 
--Buenos Aires City target applies to the entire city-wide emissions inventory. The sources we have disclosed are the mitigation lines included in the target. 
+INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '-Baseline scenario goal: 2008 is the start year of the baseline scenario used as the starting point for the BAU analysis. 
+
+-Buenos Aires City target applies to the entire city-wide emissions inventory. The sources we have disclosed are the mitigation lines included in the target. 
+
 -Note that the target of 30 % includes an unconditional 20 % and 10% conditional on access to finance and the national regulatory policy framework.', '2016', '91', '121');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( '5% reduction per year of the projected growth rate of emissions, starting 2019', '2016', '180', '122');
 INSERT INTO Comments ( comment, comment_year, emission_id, comment_id) VALUES ( 'Measurement of avoided GHG emissions.', '2016', '67', '123');
