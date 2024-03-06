@@ -27,7 +27,7 @@ We have to create the database based on our diagram
 
 1. Is there a correlation between population and total emissions?
 2. From 2016 to 2017, has there been a reduction in base emissions?
-3. From 2016 to 2023, what change has there been in target emission?
+3. From 2016 to 2017, what change has there been in target emission?
 4. Is there a difference in the target reduction emissions based on whether or not the city is a member of C40 or GCoM?
 5. What difference is there between each CDP region and their target emission?
 6. Which organization plans to reduce the most in %?
