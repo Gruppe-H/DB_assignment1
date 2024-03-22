@@ -34,7 +34,9 @@ We have to create the database based on our diagram
 7. What correlation is there between GDP, base emissions and target emissions?
 8. How many countries are represented in the data?
 9. How many have a desired target emission without a base emission?
-10. Is there a correlation between baseline year and the target emissions? 
+10. Is there a correlation between baseline year and the target emissions?
+
+Answers for the questions can be found under images where the result of stored prosedures and views are.
 
 
 ### 6. Design and implement a model for scaling the database, considering ACID and/or CAP theorem rules.
